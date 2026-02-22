@@ -1,14 +1,14 @@
 # O que é trabalho
 
 - Meio de conquistas pessoais
-- Remuneração e Sobrevivencia
+- Remuneração e Sobrevivência
 - Relações sociais
-- Sofrimento produtivo => Dejour => confronto com a realidade
-  (diferente do sofrimento para adoecimento por causa do trabalho)
+- Sofrimento produtivo => Dejours => confronto com a realidade (diferente do sofrimento para adoecimento por causa do
+  trabalho)
 
 # Pra essa sociedade / org / gestor o que é trabalho e um bom trabalhador?
 
-- Recompensa e reconhecimento por trabalhor ideal - exclusivo (homem sem responsabilidade cuidado)
+- Recompensa e reconhecimento por trabalhador ideal - exclusivo (homem sem responsabilidade cuidado)
 - "Presenteísmo" qualifica o trabalhador ideal
 - Boa mãe - sempre disponível como o trabalhador ideal
 

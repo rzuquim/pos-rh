@@ -25,7 +25,7 @@ O assalariamento **não recobre todo o trabalho**:
 
 Autora aponta a distinção entre trabalho e emprego.
 
-Etmologia: tripalium (instrumento de tortura).
+Etimologia: tripalium (instrumento de tortura).
 
 - Esforço em direção a um objetivo
 - Fundamentalmente social: não pode ser somente uma atividade imediata, solitária, respondendo exclusivamente a uma
@@ -64,7 +64,7 @@ Trabalhar, então, é sempre:
 pela ação que se experimenta o que se apresenta à vontade, ao domínio, à conquista.
 ```
 
-colocação à prova do grau de realismo dos desejos (...) e das finalidades de seu trabalho.
+Colocação à prova do grau de realismo dos desejos (...) e das finalidades de seu trabalho.
 
 - trabalho prescrito: conjunto de normas, procedimentos, tarefas e objetivos definidos pela organização; planejamento
 
@@ -95,7 +95,7 @@ O lugar que ocupa o trabalho para cada sujeito depende das saídas favoráveis q
 saídas dependem da “ressonância simbólica” (Dejours, 1990) entre o _teatro da situação de trabalho atual_ e o _teatro
 interno herdado do passado_.
 
-Fraes interessante:[^2]
+Frases interessante:[^2]
 
 ```
 É a ressonância simbólica que permite mudar o objetivo
@@ -113,7 +113,7 @@ sujeito, sob o ponto de vista de sua história singular.
 
 🔥 Caminho defensivo:
 
-- “Hiperatividade como contrainvestimento”: fuga de conflitos internos (falta de propósito)
+- “Hiperatividade como contra-investimento”: fuga de conflitos internos (falta de propósito)
 - Em vez de perguntar: “Qual é o sentido do que eu faço?”, pergunta vira: “Estou fazendo o suficiente?”
 - Anestesia e alienação: despersonalização pela instrumentalização.
 
@@ -314,7 +314,7 @@ Discurso como:
 - “high performance culture”
 - “ownership radical”
 
-Dialéticamente empoderador, produtivo, estruturante mas leva a internalização de metas impossíveis, autoexploração,
+Dialeticamente empoderador, produtivo, estruturante mas leva a internalização de metas impossíveis, auto-exploração,
 culpa quando o sistema falha.
 
 ```
