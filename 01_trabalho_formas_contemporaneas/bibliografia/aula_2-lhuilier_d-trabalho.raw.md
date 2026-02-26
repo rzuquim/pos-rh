@@ -71,7 +71,7 @@ Colocação à prova do grau de realismo dos desejos (...) e das finalidades de 
 ```
 O trabalho é bem a cena onde se confrontam,
 simultânea e dialeticamente, a relação consigo, a
-rela% ção com o outro e a relação ao real.
+relação com o outro e a relação ao real.
 ```
 
 ## O trabalho como uso de si
