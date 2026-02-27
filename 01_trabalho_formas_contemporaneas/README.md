@@ -17,5 +17,4 @@ Degradação das condições de trabalho => empreender
 
 ## Material
 
-- [padlet](https://padlet.com/melinarosacavalcante/aula-1-trabalho-e-suas-formas-contempor-neas-stmea53brpy4e6lv)
 - [gdrive](https://drive.google.com/drive/mobile/folders/1o7f8qm_j5L-Ovp5Bw2Z7X5XPJimZegnj?pli=1)
