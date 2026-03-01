@@ -53,3 +53,46 @@ imutáveis, variam no tempo e espaço. O que é estável existencia da divisão 
 de cada gênero.
 
 ## Novas configurações da divisão sexual do trabalho
+
+Existe plasticidade na divisão sexual do trabalho.
+
+- Nomadismos sexuados
+  - Mulheres: nomadismo no tempo => trabalho em tempo parcial disperso no dia e na semana.
+  - Homens: nomadismo no espaço => aumento dos deslocamentos (canteiros de obra que variam)
+- aumento de mulheres empregadas e seu capital econômico, cultural e social.
+- mulheres cujos interesses e direitos não são mediados por homens (pais ou maridos)
+- mulheres trabalham cada vez mais e com frequência cada vez maior
+- externalização do trabalho doméstico, culturalmente feminino => para outras mulheres em situação precária
+
+Novas relações de classe entre mulheres (explosão dos serviços particulares - domésticos):
+
+- econômica entre mulheres servis e empregadoras: umas imigrantes e outras qualificadas e nativas
+- racial/étnica entre mulheres servis: imigrantes do Norte e brancas e do Sul de cores diversas
+
+A relação de exploração do trabalho doméstico ajuda a pacificar o conflito entre casais qualificados, mas mascara e nega
+a importância do trabalho reprodutivo.
+
+## Vínculo social e relações entre esferas doméstica e profissional
+
+Ideia de tradição funcionalista: complementariedade entre sexo (ou papéis dos sexos).
+
+- **Modelo tradicional**: Homem provedor, mulher cuidadora.
+- **Modelo de conciliação**: Homem provedor e "ajuda", mulher concilia vida familiar e profissional.
+
+No modelo atual de conciliação, o casal é visto como lugar de negociação entre dois indivíduos iguais de direito, mas
+pesquisas mostram que a realidade das práticas sociais não confirmam a teoria. O proposto no artigo seria uma **modelo
+de delegação**: onde a mulheres executivas delegam a outras mulheres as tarefas domésticas e familiares.
+
+Mesmo que exista delegação a gestão do trabalho doméstico delegado é feminina.
+
+Pela natureza informal desse trabalho na Europa surge também uma internacionalização do trabalho reprodutivo com
+imigrantes. Para a migrante: uma ruptura da relação mãe-filho.
+
+No Japão existem obstáculos enormes ao modelo de delegação: a interrupção da carreira no primeiro filho é a regra. Por
+pressão econômica, mulheres retornam ao trabalho em tempo parcial com filhos de menos de um ano. Culturalmente o Japão
+apresenta um caso paradigmático dos limites da conciliação por: falta de políticas públicas e de movimentos sociais.
+
+## Conclusão
+
+Espantoso perceber que mulheres plenamente conscientes da opressão continuam a se incumbir do essencial trabalho
+doméstico (militantes feministas, sindicalistas e políticas).
