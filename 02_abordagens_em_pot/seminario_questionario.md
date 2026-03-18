@@ -18,7 +18,6 @@
 
 ### Quebra de gelo
 
-- [ ] Você pode se apresentar e contar um pouco da sua trajetória?
 - [ ] Como você começou a trabalhar com figurino? O que te levou a escolher essa área?
 - [ ] Em que tipos de projetos você costuma trabalhar? (teatro, cinema, TV, publicidade etc.)
 - [ ] Há quanto tempo você atua nessa área?
@@ -85,3 +84,4 @@
 - [ ] Que mudanças poderiam melhorar as condições de trabalho na profissão?
 - [ ] O que você considera que funciona bem na área?
 - [ ] Na sua opinião, qual é a importância da paixão pela arte no seu trabalho com figurino?
+
