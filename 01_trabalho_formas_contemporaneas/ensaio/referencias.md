@@ -7,3 +7,11 @@ EA Spouse. (2004, November 10). EA: The human story. URL: http://ea-spouse.live-
 
 HIRATA, Helena, & KERGOAT, Daniêle. Novas configurações da divisão sexual do trabalho. Cadernos de Pesquisa, São Paulo,
 v. 37, n. 132, p. 595-609, 2007
+
+EA Spouse. (2004, November 10). EA: The human story. URL: http://ea-spouse.live- journal.com/274.html.
+
+GDC (Janeiro, 31, 2025) GDC 2024 REPORT: MORE OF THE SAME URL:
+https://www.womeningames.org/gdc-2024-report-more-of-the-same/
+
+ABÍLIO, L. C. Uberização: a era do trabalhador just-in-time? Estudos avançados, v.
+34, p. 111-126, 2020
