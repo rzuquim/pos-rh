@@ -116,3 +116,16 @@ insane hours of work become a barrier to the participation of women, who will of
 
 Domestic activities of the mothers and partners who clean up after, take care of children for, and provide emotional
 sustenance
+
+## Exploitation
+
+But the IGDA survey reports that almost 60% work 46 hours or more a week, and nearly 20% work over 55 hours.
+
+Why do these situations arise? outside the developer’s control, as publishers may demand design changes, licensed assets
+may be delayed, or third- party tools and libraries may be “late, buggy, or both”
+
+start-ups often complete deals that place intense demands on workers. “Sometimes companies are just so intent on getting
+that contract that they’ll promise anything . . . ”
+
+“it is often true that the ship date is impossible to delay without catastrophic consequences like cancellation or even
+bankruptcy”
