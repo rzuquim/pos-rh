@@ -1,0 +1,2534 @@
+WEBVTT
+
+1
+00:00:06.590 --> 00:00:10.159
+Rafael Zuquim: Oi, Acridz. Boa noite. Meu nome é Rafael. Eu sou estudante da.
+
+2
+00:00:10.160 --> 00:00:10.919
+Acrides: Para que.
+
+3
+00:00:10.920 --> 00:00:20.499
+Rafael Zuquim: Graduação em psicologia do trabalho do Mackenzie. E a gente está fazendo uma pesquisa sobre o trabalho do figurinista.
+
+4
+00:00:21.220 --> 00:00:24.419
+Rafael Zuquim: E aí nossa
+
+5
+00:00:24.830 --> 00:00:39.460
+Rafael Zuquim: tese, nosso objeto de pesquisa. A nossa hipótese é o quanto o amor pelo trabalho faz com que a gente suporte. Talvez condições de trabalho
+
+6
+00:00:39.830 --> 00:00:46.430
+Rafael Zuquim: mais complicadas, né? Menos, menos, talvez um pouco mais precarizadas.
+
+7
+00:00:47.170 --> 00:01:00.440
+Rafael Zuquim: Então eu vou te mandar depois o termo de consentimento para você assinar. E aí a gente está gravando essa entrevista. E é isso.
+
+8
+00:01:01.480 --> 00:01:02.300
+Acrides: Vamos lá começar.
+
+9
+00:01:02.300 --> 00:01:11.240
+Rafael Zuquim: Vamos nessa. Para começar, eu vou fazer um questionário socio demográfico só porque a gente precisa fazer. Então, qual que é a sua idade.
+
+10
+00:01:11.610 --> 00:01:12.630
+Acrides: Vinte e sete.
+
+11
+00:01:13.360 --> 00:01:16.919
+Rafael Zuquim: Vinte e sete. E qual gênero que você se identifica?
+
+12
+00:01:17.630 --> 00:01:20.130
+Acrides: Eu me identifico como masculino.
+
+13
+00:01:21.020 --> 00:01:22.990
+Rafael Zuquim: Você mora? Onde.
+
+14
+00:01:22.990 --> 00:01:25.100
+Acrides: Moro na Santa Cecília.
+
+15
+00:01:25.690 --> 00:01:26.350
+Acrides: São coisas.
+
+16
+00:01:26.350 --> 00:01:29.090
+Rafael Zuquim: São Paulo, né? Isso é natural. Daqui.
+
+17
+00:01:29.310 --> 00:01:33.380
+Acrides: Não, eu sou gaúcho natural de Osório, litoral norte do Rio Grande do Sul.
+
+18
+00:01:34.490 --> 00:01:37.430
+Rafael Zuquim: Legal e qual a sua escolaridade.
+
+19
+00:01:37.640 --> 00:01:39.560
+Acrides: Eu sou.
+
+20
+00:01:41.070 --> 00:01:43.780
+Acrides: Ah, esqueci como se fala quando tem pós graduação.
+
+21
+00:01:43.780 --> 00:01:44.320
+Rafael Zuquim: E aí
+
+22
+00:01:44.480 --> 00:01:52.209
+Rafael Zuquim: pós graduação pós graduação? Eu sei lá. Não sei. Pós graduada legal. E você se graduou em quê? Só para o.
+
+23
+00:01:52.210 --> 00:01:57.540
+Acrides: Eu sou formada em publicidade. Tenho técnico em teatro musical
+
+24
+00:01:57.950 --> 00:02:01.190
+Acrides: e sou pós graduado em escrita criativa.
+
+25
+00:02:01.780 --> 00:02:03.570
+Rafael Zuquim: Que máximo!
+
+26
+00:02:03.570 --> 00:02:06.430
+Acrides: Uma coisa. Nada a ver com a outra.
+
+27
+00:02:06.430 --> 00:02:16.010
+Rafael Zuquim: Super tem. Como assim? Como não? E a sua situação de moradia, né? Você tem um imóvel próprio alugado.
+
+28
+00:02:16.320 --> 00:02:17.190
+Acrides: É alegado.
+
+29
+00:02:17.730 --> 00:02:23.580
+Rafael Zuquim: E com quem você mora atualmente? Sozinho? Familiares, companheiro, filho.
+
+30
+00:02:23.580 --> 00:02:26.340
+Acrides: Um amigo. A gente divide apartamentos.
+
+31
+00:02:27.460 --> 00:02:32.960
+Rafael Zuquim: Legal. E você atualmente, contribui financeiramente para o sustento de alguém com o.
+
+32
+00:02:32.960 --> 00:02:40.540
+Acrides: É um ajuda os meus pais às vezes, mas normalmente só só o meu sustento. Mesmo.
+
+33
+00:02:41.580 --> 00:02:49.229
+Rafael Zuquim: Então agora a gente vai começar. De fato, esse é o fim do questionário socio demográfico. Vamos começar, de fato, a entrevista em si.
+
+34
+00:02:49.500 --> 00:02:49.830
+Acrides: Olá.
+
+35
+00:02:49.830 --> 00:02:54.910
+Rafael Zuquim: E como que você começou a trabalhar com figurino? E o que te levou a escolher essa área?
+
+36
+00:02:55.550 --> 00:02:57.669
+Acrides: Bom, faço teatro.
+
+37
+00:02:58.170 --> 00:03:05.210
+Acrides: A resposta completa. Eu sou do interior. E fazer teatro no interior. Você aprende a fazer um pouco de tudo.
+
+38
+00:03:05.440 --> 00:03:15.700
+Acrides: Minha mãe é costureira. Então faço teatro desde nove anos e os figurinos iam para a minha casa para serem feitos porque não tinha quem fizesse. Então minha mãe se
+
+39
+00:03:15.850 --> 00:03:34.339
+Acrides: se dispôs a fazer, então sempre ia pra minha casa. Eu sempre estive ali nesse meio assim, minha mãe fazendo figurinos. Antes disso, eu já ajudava minha mãe a ela tava costurando as coisas. Eu ia lá, tipo, desvirar quando ela precisava desvirar ou tirar a linha, essas coisas.
+
+40
+00:03:34.340 --> 00:03:38.899
+Acrides: E aí eu fui crescendo. Continuei fazendo teatro,
+
+41
+00:03:38.980 --> 00:03:44.110
+Acrides: e ajudava cada vez mais minha mãe nos figurinos, porque era um interesse meu e não dela.
+
+42
+00:03:44.110 --> 00:03:44.810
+Rafael Zuquim: E aí?
+
+43
+00:03:44.810 --> 00:03:52.070
+Acrides: Por amor novamente. A gente trabalhando por amor. Agora, depois de vinte anos, continua trabalhando por amor.
+
+44
+00:03:52.070 --> 00:03:53.250
+Rafael Zuquim: E aí?
+
+45
+00:03:53.250 --> 00:04:00.249
+Acrides: Minha mãe fazia aquilo por amor. Então chegou um momento que ela disse assim: cara, faz você então, né? Tipo,
+
+46
+00:04:00.640 --> 00:04:02.250
+Acrides: é seu, é seu.
+
+47
+00:04:02.700 --> 00:04:10.720
+Acrides: Então comecei a fazer os figurinos por necessidade. Alguém precisava fazer. E eu curtia um pouco aquilo ali,
+
+48
+00:04:10.850 --> 00:04:14.520
+Acrides: enfim, foi ganhando mais conhecimento é,
+
+49
+00:04:14.980 --> 00:04:28.020
+Acrides: fui fazer faculdade de publicidade. Me afastei um pouco do teatro. No meio da faculdade, percebi que aquilo não era o que eu queria para a minha vida. Que tinha feito uma escolha errada. Gostava muito de estar no palco. Gostava de estar envolvido com teatro.
+
+50
+00:04:28.100 --> 00:04:35.629
+Acrides: Amava aquilo. O sentimento de amar alguma coisa tanto que você não consegue se ver sem aquilo.
+
+51
+00:04:35.880 --> 00:04:44.600
+Acrides: E aí, quando eu estava no meio da faculdade, fiz meu Tcc da faculdade de publicidade sobre teatro musical. Já porque eu já imaginava que eu queria vir para São Paulo
+
+52
+00:04:44.880 --> 00:04:46.570
+Acrides: iria vir algum dia.
+
+53
+00:04:46.720 --> 00:04:52.469
+Acrides: Então, já fiz alguns contatos no meu Tcc aqui, usando a desculpa do Tcc, obviamente,
+
+54
+00:04:52.590 --> 00:05:02.989
+Acrides: e decidi que eu ia vir para São Paulo, tentar a vida no teatro, seja no palco, seja fora dele, o que desse eu tava topando.
+
+55
+00:05:03.530 --> 00:05:08.419
+Acrides: Passei num curso de cenografia e figurino aqui na Sp Escola de Teatro.
+
+56
+00:05:08.930 --> 00:05:19.070
+Acrides: E vim em dois mil e vinte e dois, com duas malas e nenhum lugar para morar. Eu tinha. Eu aluguei um Airbnb por duas semanas e disse: assim, vou achar o lugar lá
+
+57
+00:05:19.220 --> 00:05:19.760
+Acrides: que é.
+
+58
+00:05:19.760 --> 00:05:20.670
+Rafael Zuquim: Aqui. Guerrero.
+
+59
+00:05:20.860 --> 00:05:29.350
+Acrides: A aprovação saiu três semanas depois. Eu tinha que estar aqui. Daí eu entreguei o lugar que eu morava. Vendi tudo que eu tinha e vim
+
+60
+00:05:29.570 --> 00:05:36.430
+Acrides: aqui. Vim ainda na esperança de trabalhar como intérprete como ator.
+
+61
+00:05:36.560 --> 00:05:40.579
+Acrides: Mas sabia que eu estava vindo fazer um curso de figurino. Então
+
+62
+00:05:41.160 --> 00:05:44.639
+Acrides: que as coisas podiam mudar aqui, e realmente mudaram.
+
+63
+00:05:44.780 --> 00:05:51.170
+Acrides: Agora fazem três anos e meio que eu estou aqui. Eu estou me sustentando só com o figurino
+
+64
+00:05:51.430 --> 00:05:53.860
+Acrides: ano passado. Tipo assim,
+
+65
+00:05:53.920 --> 00:06:10.420
+Acrides: ano passado foi dois mil e vinte e cinco dois mil e vinte e quatro. No final de dois mil e vinte e quatro, eu ainda trabalhava em agência. Eu vim para cá trabalhando em agência de publicidade. Parei de trabalhar em agência e fiquei só com figurino, porque consegui fazer a transição de uma coisa para outra.
+
+66
+00:06:10.420 --> 00:06:19.680
+Acrides: Comecei a trabalhar um pouquinho com o figurino e diminuir minha demanda na agência até chegar na demanda só de figurino, e conseguir me sustentar com isso
+
+67
+00:06:19.720 --> 00:06:23.720
+Acrides: ano passado, eu trabalhei só com figurino esse ano. Também estou.
+
+68
+00:06:24.180 --> 00:06:28.889
+Acrides: Tô na loucura da entrega do Shrek. Agora que entrega, daqui a duas semanas.
+
+69
+00:06:29.620 --> 00:06:38.199
+Acrides: O olho está piscando sozinho do corpo, mas a gente está aqui.
+
+70
+00:06:38.720 --> 00:06:42.030
+Rafael Zuquim: Obrigado por você. Deu um tempo para conversar comigo. Obrigado.
+
+71
+00:06:42.030 --> 00:06:44.539
+Acrides: Ah, imagina.
+
+72
+00:06:44.540 --> 00:06:46.160
+Rafael Zuquim: Está descansando.
+
+73
+00:06:46.160 --> 00:06:56.739
+Acrides: Não, mas é bom falar sobre porque a gente acaba lembrando por que a gente está fazendo isso? Porque às vezes a gente esquece. Está tão no automático que só quer que acabe e esquece
+
+74
+00:06:57.130 --> 00:06:59.639
+Acrides: do porquê que a gente está ali e o porquê que a gente está fazendo?
+
+75
+00:06:59.840 --> 00:07:02.620
+Acrides: Acho que eu já respondi a pergunta, né?
+
+76
+00:07:03.200 --> 00:07:10.700
+Rafael Zuquim: Obrigado. Foi ótimo. E em que tipo de projetos você costuma trabalhar? Teatro, cinema, Tv, publicidade.
+
+77
+00:07:10.870 --> 00:07:26.809
+Acrides: Não fiz publicidade até hoje, trabalhando com figurino. Fiz muita publicidade porque eu trabalhava em agência, mas como figurinista, não fiz nada de publicidade, cinema. Eu fiz dois curtas, mas o que eu estou mais trabalhando é teatro musical.
+
+78
+00:07:26.870 --> 00:07:33.959
+Acrides: Fiz muito teatro de prosa aqui em São Paulo? Não, mas até chegar aqui, fiz muito teatro de prosa também.
+
+79
+00:07:34.100 --> 00:07:41.289
+Acrides: Mas aqui em São Paulo, só teatro musical. Basicamente, algumas peças que não são, mas a grande maioria musical.
+
+80
+00:07:41.810 --> 00:07:46.910
+Rafael Zuquim: E eu acho que eu sei a resposta. Mas qual desse tipo de obra você mais gosta.
+
+81
+00:07:47.810 --> 00:07:51.339
+Acrides: Eu gosto mais de teatro de prosa do que teatro musical.
+
+82
+00:07:51.340 --> 00:07:52.740
+Rafael Zuquim: Do que teatro musical. É interessante.
+
+83
+00:07:52.740 --> 00:07:53.309
+Acrides: Fazer figurino.
+
+84
+00:07:53.310 --> 00:08:01.410
+Rafael Zuquim: Eu acharia que não. Eu acharia que não tá vendo? Isso me surpreendeu porque eu achava que pelo sujeito que você falou.
+
+85
+00:08:01.740 --> 00:08:02.140
+Acrides: Eu acho que.
+
+86
+00:08:02.140 --> 00:08:03.020
+Rafael Zuquim: Com isso.
+
+87
+00:08:03.020 --> 00:08:11.340
+Acrides: Acho que tem uma grande potência como figurinista para trabalhar com teatro musical. Mas
+
+88
+00:08:11.860 --> 00:08:16.310
+Acrides: fazer figurino para teatro de prosa é muito mais interessante. É muito mais.
+
+89
+00:08:16.510 --> 00:08:24.009
+Acrides: Brilha o olho assim, porque você não tem que seguir uma caixinha ali que te colocam, que você tem que seguir aquilo.
+
+90
+00:08:24.190 --> 00:08:33.349
+Acrides: E o teatro musical tem muito isso. Você tem algumas regras a serem seguidas, principalmente teatro musical que vem de fora
+
+91
+00:08:34.190 --> 00:08:39.229
+Acrides: compram só os direitos de algumas coisas. Tipo, enfim,
+
+92
+00:08:39.390 --> 00:08:43.640
+Acrides: tem um padrão a ser seguido tanto de
+
+93
+00:08:43.870 --> 00:08:48.539
+Acrides: público que vai assistir porque o teatro musical é muito mais.
+
+94
+00:08:49.290 --> 00:08:54.889
+Acrides: Posso estar muito errado no que eu tô falando, tá? Mas eu vejo ele muito mais como entretenimento e não como
+
+95
+00:08:55.010 --> 00:09:09.950
+Acrides: um objeto de reflexão de teatro, mesmo de prosa, que tem uma reflexão muito maior sobre a obra do que um teatro musical, que é muito mais sobre entreter aquele espectador. E acho que
+
+96
+00:09:10.370 --> 00:09:18.129
+Acrides: trazendo para o figurino, não tem uma profundidade tão grande no teatro musical como tem no teatro de prosa.
+
+97
+00:09:18.280 --> 00:09:23.080
+Acrides: Então acaba sendo um objeto mais interessante de se trabalhar.
+
+98
+00:09:23.740 --> 00:09:24.410
+Rafael Zuquim: Legal.
+
+99
+00:09:24.770 --> 00:09:31.580
+Rafael Zuquim: E acho que eu fiz mais ou menos as contas de cabeça. Mas nessa área, você vai contar desde os seis anos. Há quanto tempo você atua.
+
+100
+00:09:31.890 --> 00:09:34.480
+Acrides: Eu atuo desde os nove. Então fazem.
+
+101
+00:09:34.480 --> 00:09:37.450
+Rafael Zuquim: Nossa, que você atua na área de Figurini.
+
+102
+00:09:37.450 --> 00:09:49.029
+Acrides: Ah, não, figurino. Foi um pouco mais tarde. Tipo, assinei meu primeiro figurino. Acho que eu tinha uns dezasseis. Que legal. Fazia uns dez anos por aí. Uns dez anos.
+
+103
+00:09:49.530 --> 00:09:50.520
+Rafael Zuquim: Maneiríssimo.
+
+104
+00:09:50.970 --> 00:09:58.800
+Rafael Zuquim: E aí, se você puder explicar para mim quais são as etapas do trabalho de figurino pouco tipo,
+
+105
+00:09:59.080 --> 00:10:02.240
+Rafael Zuquim: se você tivesse que falar. Quais são as atividades realizadas.
+
+106
+00:10:03.400 --> 00:10:11.260
+Acrides: É um pouco difícil falar isso, porque cada projeto é um projeto, né? Mas como eu funciono
+
+107
+00:10:11.650 --> 00:10:19.579
+Acrides: normalmente, a gente tem o texto ou tem pelo menos uma base da história que vai ser contada. Então, primeiro, eu faço uma decupagem do texto
+
+108
+00:10:19.800 --> 00:10:21.759
+Acrides: elenco. Ali tudo.
+
+109
+00:10:21.990 --> 00:10:41.109
+Acrides: Eu sou muito metódico. Então eu vou grifando, por exemplo, sensações que o texto traz objetos físicos, que o texto traz, tipo cada coisa de uma cor assim, é meio que estraçalhar o texto mesmo e ver tudo que ele tem de material para nos dar.
+
+110
+00:10:41.260 --> 00:10:44.680
+Acrides: E como a gente pode contribuir para aquilo também.
+
+111
+00:10:45.150 --> 00:10:51.829
+Acrides: Depois, se a gente já tem uma base de fora, tipo o teatro musical, por exemplo, o Shrek. Agora que é o
+
+112
+00:10:52.050 --> 00:11:08.640
+Acrides: que está mais recente, como a gente tem a base de fora do que é feito, faço um C na cena de quem está em cada cena para ter uma ideia de quais figurinos a gente vai ter em cada cena. Quantas cenas tem? Quantos figurinos tem que normalmente são muitos.
+
+113
+00:11:08.640 --> 00:11:09.260
+Rafael Zuquim: E aí?
+
+114
+00:11:09.260 --> 00:11:14.769
+Acrides: Um primeiro trabalho de organização do material muito mais do que criativo.
+
+115
+00:11:14.940 --> 00:11:34.790
+Acrides: Depois dessa organização, aí começa a pensar em conceito a pensar em como a gente vai transformar aquilo ali em um figurino propriamente dito, porque é só um texto. Então, tipo assim, ele tem que virar algo físico. É uma coisa muito doida, porque às vezes isso
+
+116
+00:11:35.030 --> 00:11:39.240
+Acrides: vem na mente enquanto a gente está lendo o texto. Você já sabe exatamente o que você quer fazer.
+
+117
+00:11:39.480 --> 00:11:56.719
+Acrides: Assim como às vezes você não faz a menor ideia. E aí você tem que ir por outros caminhos, buscar referências, ver no texto que ele te traz mais profundamente ainda, ler cinco, seis vezes a mesma coisa para tentar tirar dali alguma coisa.
+
+118
+00:11:57.100 --> 00:12:01.299
+Acrides: Às vezes vem do diretor esse direcionamento. Então,
+
+119
+00:12:01.620 --> 00:12:10.369
+Acrides: primeiro, no trabalho de organização, segundo um trabalho de conceituação dessa organização. Tipo, onde eu vou inserir ela.
+
+120
+00:12:10.650 --> 00:12:28.920
+Acrides: E aí depois vem a criação. E aí, a criação é uma parte mais caótica, porque às vezes você sabe tudo que você quer fazer. Às vezes você não sabe nada. Então, às vezes, você sabe, dois personagens e dá um norte para todos os outros.
+
+121
+00:12:29.250 --> 00:12:34.069
+Acrides: Às vezes você vê uma imagem, e aquela imagem, tipo, te inspira a fazer todos os figurinos.
+
+122
+00:12:34.280 --> 00:12:39.450
+Acrides: Então tipo é muito um trabalho confuso assim, porque
+
+123
+00:12:39.580 --> 00:12:43.630
+Acrides: a nossa mente vai por muitos caminhos,
+
+124
+00:12:43.760 --> 00:12:53.960
+Acrides: voltando a falar do Shrek, que foi o último. São muitos figurinos, né? Eu acho que eu desenhei setenta e cinco figurinos, tipo, em m6 mais ou menos.
+
+125
+00:12:54.100 --> 00:13:01.319
+Acrides: Então a gente normalmente começa pelos principais. Porque vai fotografar antes. Então vai produzir antes também.
+
+126
+00:13:01.550 --> 00:13:03.140
+Acrides: E depois vai indo
+
+127
+00:13:03.240 --> 00:13:11.430
+Acrides: em uma ordem. Que tipo? Assim eu ia na ordem que a minha cabeça. Eu acordava um dia e pensava: rata cega. Já sei o que fazer. Ia lá, desenhava.
+
+128
+00:13:11.430 --> 00:13:12.380
+Rafael Zuquim: Tá certo.
+
+129
+00:13:12.750 --> 00:13:23.370
+Acrides: Não tinha uma ordem assim tanto, que os últimos são sempre, tipo figurinos muito aleatórios. Que tipo? A dragona foi um dos últimos, que é uma das principais.
+
+130
+00:13:23.370 --> 00:13:25.190
+Rafael Zuquim: Principais. É super.
+
+131
+00:13:25.190 --> 00:13:26.770
+Acrides: Ia pensar no que fazer.
+
+132
+00:13:27.080 --> 00:13:28.290
+Acrides: É,
+
+133
+00:13:28.610 --> 00:13:39.540
+Acrides: mas é muito legal esse caminho, porque você vai vendo uma evolução e no fim, tudo se conecta. Às vezes não. Às vezes tem que redesenhar alguma coisa, porque não faz o menor sentido com o contexto,
+
+134
+00:13:39.650 --> 00:13:45.519
+Acrides: mas é um trabalho muito de não se cobrar também. Tipo, deixa,
+
+135
+00:13:45.810 --> 00:13:49.119
+Acrides: deixa a imaginação ir. É hora de criar realmente
+
+136
+00:13:49.280 --> 00:13:53.899
+Acrides: o artístico está nessa parte, não só nessa parte, mas
+
+137
+00:13:54.040 --> 00:13:57.940
+Acrides: o início do trabalho artístico. Ali é
+
+138
+00:13:58.860 --> 00:14:05.140
+Acrides: depois disso vem a parte de produção, que, na minha opinião, é a pior de todas. Porque.
+
+139
+00:14:05.140 --> 00:14:05.770
+Rafael Zuquim: E aí?
+
+140
+00:14:05.940 --> 00:14:11.930
+Acrides: Tem que lidar com o orçamento. Então você tem que ver o que vai ser possível fazer, o que não vai ser possível fazer?
+
+141
+00:14:12.050 --> 00:14:23.550
+Acrides: Procurar tecido amostra e a prova não aprova. E aí eu vejo como uma segunda parte do trabalho criativo, porque
+
+142
+00:14:23.710 --> 00:14:36.990
+Acrides: é o material em si. Você vai novamente tirar do papel e colocar no real, assim como a gente fez lá no início de tirar do texto coisas para transformar em realidade. Agora é hora de transformar em realidade. De fato.
+
+143
+00:14:38.420 --> 00:14:40.180
+Acrides: Desculpa, é.
+
+144
+00:14:40.180 --> 00:14:41.220
+Rafael Zuquim: Então, ontem.
+
+145
+00:14:41.400 --> 00:14:43.160
+Acrides: E depois disso,
+
+146
+00:14:45.340 --> 00:15:02.899
+Acrides: é produzir, colocar no palco e ver o que funciona e o que não funciona. Às vezes não funciona nada. Às vezes funciona tudo. Às vezes funciona mais ou menos. E aí colocar no corpo de alguém. Essa ideia que surgiu da sua cabeça. Às vezes, do nada,
+
+147
+00:15:02.960 --> 00:15:11.759
+Acrides: é um processo muito maluco assim, porque, tipo, alguém está vestindo uma coisa que eu imaginei que ia funcionar.
+
+148
+00:15:12.410 --> 00:15:29.769
+Acrides: E às vezes funciona realmente. Às vezes funciona. E aí você tem que tentar entender como aquele corpo que está vestindo uma coisa da sua cabeça vai funcionar no palco. Vai contar essa história para alguém? Sabe,
+
+149
+00:15:30.160 --> 00:15:33.539
+Acrides: não sei se eu não saí da pergunta já acho que não.
+
+150
+00:15:33.540 --> 00:15:36.850
+Rafael Zuquim: Não, você está descrevendo mesmo e temporalmente.
+
+151
+00:15:36.850 --> 00:15:37.930
+Acrides: É.
+
+152
+00:15:38.040 --> 00:15:42.880
+Acrides: E depois de tipo, desses testes de vendo palco. Enfim,
+
+153
+00:15:43.150 --> 00:15:46.630
+Acrides: é jogar para o público e ver como ele recebe isso.
+
+154
+00:15:46.730 --> 00:15:53.200
+Acrides: As pessoas brincam que o figurino só é notado quando a peça é muito ruim, porque aí a pessoa.
+
+155
+00:15:53.200 --> 00:15:53.980
+Rafael Zuquim: Vamos falar.
+
+156
+00:15:53.980 --> 00:16:07.980
+Acrides: Começa a olhar para o cenário. Se a peça não é ruim, o figurino é só, tipo assim. O figurino era bonito. O figurino era feio. Se a peça é muito ruim, a pessoa repara em todos os detalhes. A alça estava rasgada.
+
+157
+00:16:07.980 --> 00:16:09.310
+Rafael Zuquim: É tipo.
+
+158
+00:16:09.650 --> 00:16:27.459
+Acrides: É muito isso. Então, tipo, é muito legal ver essa resposta das pessoas também. Sobre o trabalho, como o seu imaginário ajudou a construir aquela história, voltando a falar do Shuek, que é a produção mais recente.
+
+159
+00:16:27.460 --> 00:16:27.880
+Rafael Zuquim: E o.
+
+160
+00:16:27.880 --> 00:16:32.750
+Acrides: Saíram as fotos de alguns protagonistas agora, e tipo,
+
+161
+00:16:33.210 --> 00:16:38.989
+Acrides: semana passada, saíram muitos vídeos de pessoas analisando o figurino.
+
+162
+00:16:39.440 --> 00:16:47.389
+Acrides: E aí. É muito legal ver a percepção que as pessoas têm, que às vezes nem é o que você pensou, mas faz total sentido, tipo.
+
+163
+00:16:47.390 --> 00:16:48.380
+Rafael Zuquim: Não.
+
+164
+00:16:48.380 --> 00:17:03.789
+Acrides: Da Fiona tem uma amarração na frente. E aí tinha um vídeo de uma menina falando. Não, porque a amarração na frente. É porque assim como a Rapunzel, elas ficavam trancadas na torre. Então elas mesmas têm que fechar o vestido. Não pode ser atrás. E aí o pessoal disse:
+
+165
+00:17:04.010 --> 00:17:13.670
+Acrides: Gente, que loucura! Eu só desenhei porque eu achei bonito. E a menina criou todo o imaginário sobre a amarração do vestido, sabe?
+
+166
+00:17:13.790 --> 00:17:14.630
+Acrides: Mas é.
+
+167
+00:17:14.630 --> 00:17:27.809
+Rafael Zuquim: Por: existem duas coisas. Tem aquele papo de autor de livro que fala, que depois que publica, não importa o que você pensou que as pessoas que vão dar significado para aquilo. E segundo, que talvez esteja aí no teu inconsciente, tudo isso.
+
+168
+00:17:27.810 --> 00:17:35.870
+Acrides: E aí eu fiquei pensando nisso depois. Que tipo faz total sentido. E provavelmente meu subconsciente
+
+169
+00:17:36.000 --> 00:17:41.379
+Acrides: jogou isso de alguma forma ali, assim como o vestido das fionas. É todo cheio de flores.
+
+170
+00:17:41.590 --> 00:17:56.610
+Acrides: E aí, conversando com o pessoal do figurino. Alguém falou porque ela ficou muitos anos trancada. Então começaram a nascer flores dela mesma. Não é nem mais do castelo nela que nascem flores. É porque verdade.
+
+171
+00:17:56.610 --> 00:17:57.230
+Rafael Zuquim: Vai ser.
+
+172
+00:17:57.230 --> 00:18:04.960
+Acrides: Faz sentido. Sabe as coisas. Então acho que essa é a última etapa. Jogar pro público e ver o que ele te devolve
+
+173
+00:18:04.960 --> 00:18:17.600
+Acrides: em relação ao que você criou. E o que você imaginou então? Só repassando para facilitar o seu trabalho depois organização de material e decupagem, depois
+
+174
+00:18:18.060 --> 00:18:27.690
+Acrides: criação de conceito e inserção desse material no conceito, conversa com direção, conversa com produção, enfim,
+
+175
+00:18:27.990 --> 00:18:35.080
+Acrides: depois criação de fato de croquis. Enfim, às vezes não tem nem croqui e um moodyboard. Enfim,
+
+176
+00:18:35.200 --> 00:18:46.329
+Acrides: depois, produção e, por fim, produção depois teste nos atores ver como isso reage no corpo das pessoas e, por fim,
+
+177
+00:18:46.650 --> 00:18:50.740
+Acrides: jogar para o público e ver o que volta, porque às vezes não volta nada.
+
+178
+00:18:50.740 --> 00:18:51.580
+Rafael Zuquim: Isso aí.
+
+179
+00:18:51.580 --> 00:18:52.380
+Acrides: Às vezes.
+
+180
+00:18:52.380 --> 00:18:53.069
+Rafael Zuquim: Bom dia.
+
+181
+00:18:53.470 --> 00:19:01.790
+Rafael Zuquim: Mas fique em paz com relação a essas coisas, porque está gravado. Então, na pior das hipóteses, eu vou ver na pior. Não, eu com certeza vou ver de novo.
+
+182
+00:19:01.790 --> 00:19:02.419
+Acrides: Sei que a gente está.
+
+183
+00:19:02.420 --> 00:19:05.320
+Rafael Zuquim: Falando, para poder organizar o trabalho.
+
+184
+00:19:05.550 --> 00:19:06.860
+Acrides: E aí?
+
+185
+00:19:06.860 --> 00:19:13.639
+Rafael Zuquim: Obrigado. Obrigado pelo resumo. Então, a próxima pergunta seria: como que os projetos chegam até você.
+
+186
+00:19:14.920 --> 00:19:19.330
+Acrides: Essa é uma pergunta que toca no coração.
+
+187
+00:19:21.320 --> 00:19:23.690
+Acrides: Quando eu cheguei em São Paulo, não conhecia ninguém, né?
+
+188
+00:19:24.020 --> 00:19:25.839
+Acrides: Isso três anos atrás.
+
+189
+00:19:25.950 --> 00:19:27.210
+Acrides: E
+
+190
+00:19:27.370 --> 00:19:42.500
+Acrides: eu sempre fico refletindo sobre como as coisas aconteceram assim. Porque nunca imaginei que eu estaria no lugar que eu estaria hoje, cinco anos atrás, eu estava me formando. Jamais ia imaginar que eu ia estar trabalhando com figurino hoje em dia.
+
+191
+00:19:42.510 --> 00:19:47.499
+Acrides: Então é muito legal ver os caminhos que a gente vai fazendo e onde a gente chega.
+
+192
+00:19:47.740 --> 00:20:07.359
+Acrides: Trabalhar com figurino aqui em São Paulo, pelo menos muito mais do que em outros lugares. É total contato assim, tipo uma pessoa vai falar de você para outra. Aí a outra vai te ver. Vai ver o seu trabalho em uma peça. Vai te chamar para uma reunião, vai te indicar para outra. Então, tipo, é pura indicação
+
+193
+00:20:07.570 --> 00:20:18.560
+Acrides: não é como um trabalho de ator, por exemplo, que você pode fazer uma audição para um papel, e a pessoa lembrar de você depois para outro papel? Não, a pessoa vai ver seu trabalho.
+
+194
+00:20:18.860 --> 00:20:23.040
+Acrides: Só que tem uma questão, né? Se você não trabalha, ninguém vê seu trabalho Uhum.
+
+195
+00:20:23.040 --> 00:20:24.180
+Rafael Zuquim: Exatamente.
+
+196
+00:20:24.180 --> 00:20:38.249
+Acrides: Esse início é a pior coisa que existe. Porque, tipo, você faz uns projetos merda que ninguém assiste muitas vezes sem dinheiro. Então, tipo, o resultado é mais ou menos porque você não tem
+
+197
+00:20:38.520 --> 00:20:41.160
+Acrides: condição de fazer o que você tem
+
+198
+00:20:41.270 --> 00:20:45.609
+Acrides: propriedade para fazer ali. Você tem conhecimento para fazer,
+
+199
+00:20:45.900 --> 00:21:02.720
+Acrides: então o início é sempre meio capenga assim, porque até você engrenar na coisa, é um processo um pouco difícil. Eu tive muita sorte. Tipo assim. Três anos que eu tô, aqui tipo, eu tô trabalhando com um musical que vem de fora. Já trabalhei em outras produções também.
+
+200
+00:21:03.000 --> 00:21:22.979
+Acrides: Mas isso aconteceu ano passado, eu fiz um projeto, fiz outro no terceiro. As pessoas já começaram. Nossa. Ele está em vários projetos ao mesmo tempo. Vou chamar. Deve ser bom. E aí, tipo, começou. Vinha um atrás do outro porque as pessoas viam que eu estava trabalhando bastante.
+
+201
+00:21:23.280 --> 00:21:27.569
+Acrides: É só que até chegar nesse ponto, é tipo,
+
+202
+00:21:27.940 --> 00:21:45.559
+Acrides: você não é ninguém. Mas respondendo a pergunta é por indicação, mas também por status, e alcançar esse status é muito mais. Depende, às vezes muito mais de contato do que de talento ou de saber fazer as coisas
+
+203
+00:21:45.860 --> 00:21:48.380
+Acrides: tanto que tem muita gente ruim aí, trabalhando.
+
+204
+00:21:48.380 --> 00:21:49.400
+Rafael Zuquim: Muito.
+
+205
+00:21:49.670 --> 00:21:54.869
+Acrides: E tendo visibilidade por inúmeros outros motivos.
+
+206
+00:21:56.090 --> 00:21:57.770
+Rafael Zuquim: Infelizmente, em todas as áreas.
+
+207
+00:21:57.770 --> 00:21:58.880
+Acrides: É.
+
+208
+00:21:58.880 --> 00:22:06.570
+Rafael Zuquim: Não só nessa. E é comum você assumir funções além do que você foi contratado para fazer.
+
+209
+00:22:06.950 --> 00:22:13.740
+Acrides: Sim, eu podia responder essa pergunta só com Sim, é a.
+
+210
+00:22:13.740 --> 00:22:16.929
+Rafael Zuquim: Se você quiser ficar só no Sim, não tem problema nenhum.
+
+211
+00:22:16.930 --> 00:22:32.159
+Acrides: Não vou discorrer sobre normalmente, a gente nem consegue ter uma divisão de funções direito. É uma área que, como é uma área criativa. As pessoas usam de pretexto para
+
+212
+00:22:32.530 --> 00:22:36.200
+Acrides: te usar para várias funções e te pagar por uma, às vezes nem pagar.
+
+213
+00:22:36.460 --> 00:22:40.910
+Acrides: Então é um pouco complexo
+
+214
+00:22:41.020 --> 00:22:57.280
+Acrides: fazer uma divisão de funções dentro de uma área criativa, principalmente em produções maiores ou produções menores. Também acho que existe uma divisão tipo produções menores. Você acaba assumindo várias funções. Porque não tem outra pessoa que faça. E, tipo, está tudo bem.
+
+215
+00:22:57.350 --> 00:23:12.899
+Acrides: Fui criado fazendo teatro de grupo. Então eu fazia cenário figurino. A maquiagem. Às vezes, o cabelo das pessoas, e atuava, entendeu assim como outras pessoas faziam milhões de funções também. E é tipo uma escolha. Você escolhe.
+
+216
+00:23:12.900 --> 00:23:14.979
+Rafael Zuquim: É um processo naturalmente coletivo.
+
+217
+00:23:14.980 --> 00:23:21.159
+Acrides: É só que quando você vai para uma produção profissional, isso continua acontecendo. É um pouco preocupante.
+
+218
+00:23:21.160 --> 00:23:22.720
+Rafael Zuquim: E aí?
+
+219
+00:23:22.720 --> 00:23:30.919
+Acrides: Tipo? Sei lá. Você é do figurino. Você desenha os croquis. Aí vem o peruqueiro. Olha os croquis e só copia as perucas que você desenhou. Tipo.
+
+220
+00:23:31.200 --> 00:23:32.260
+Rafael Zuquim: Você.
+
+221
+00:23:32.260 --> 00:23:36.730
+Acrides: Esse é o seu trabalho, não é o meu. Eu só desenhei uma peruca aleatória ali.
+
+222
+00:23:36.980 --> 00:23:38.080
+Acrides: É
+
+223
+00:23:38.400 --> 00:23:53.480
+Acrides: aí tem duas opções. Ou você é muito bom, ou a pessoa está com muita preguiça de trabalhar, mas dentro da área de mesmo, você acaba desempenhando outras funções, isso acaba acarretando em uma carga horária
+
+224
+00:23:53.830 --> 00:23:59.489
+Acrides: que você não tem hora para começar e terminar porque tem um prazo de entrega, e você tem que seguir aquele prazo.
+
+225
+00:23:59.790 --> 00:24:07.309
+Acrides: Mas ao mesmo tempo, às vezes não tem uma equipe para fazer todas as funções. Então, se você não fizer, ninguém vai fazer.
+
+226
+00:24:07.450 --> 00:24:16.830
+Acrides: É complexo, porque vai muito além do querer fazer artístico e passa a ser um problema de gestão,
+
+227
+00:24:17.000 --> 00:24:25.550
+Acrides: muitas vezes da produtora, que não tem uma estrutura para o espetáculo que eles querem construir. Sabe.
+
+228
+00:24:26.340 --> 00:24:28.850
+Rafael Zuquim: Uhum você deixa.
+
+229
+00:24:28.850 --> 00:24:29.880
+Acrides: Falei. Faz sentido.
+
+230
+00:24:29.880 --> 00:24:30.949
+Rafael Zuquim: Total total.
+
+231
+00:24:30.950 --> 00:24:32.020
+Acrides: É.
+
+232
+00:24:32.020 --> 00:24:37.879
+Rafael Zuquim: Aí. A próxima pergunta. Acho que já está respondida. É que se existe uma carga horária definida nos projetos.
+
+233
+00:24:37.880 --> 00:24:41.900
+Acrides: É mais uma pergunta que eu posso responder com a palavra não.
+
+234
+00:24:41.900 --> 00:24:43.290
+Rafael Zuquim: Para.
+
+235
+00:24:43.290 --> 00:24:48.109
+Acrides: Às vezes a gente tenta, mas, por exemplo, agora
+
+236
+00:24:48.190 --> 00:25:06.649
+Acrides: reta final as duas últimas semanas. Normalmente é tipo as duas últimas semanas que tudo acontece, que tudo dá errado. Tudo volta porque o elenco começa a experimentar as coisas e ver o que funciona e o que não funciona, por mais que na sua cabeça esteja super lindo, maravilhoso. Às vezes dá errado.
+
+237
+00:25:06.840 --> 00:25:15.789
+Acrides: Então, tipo, às vezes você faz um espetáculo em duas semanas também. Tipo Shrek. Eu fiz em sete meses,
+
+238
+00:25:15.990 --> 00:25:17.990
+Acrides: mas ano passado.
+
+239
+00:25:17.990 --> 00:25:19.580
+Rafael Zuquim: Também pra tanto figurino.
+
+240
+00:25:20.110 --> 00:25:25.029
+Acrides: Mas ano passado, a gente fez espetáculo com a mesma quantidade de figurinos. Em dois
+
+241
+00:25:25.230 --> 00:25:39.380
+Acrides: ano passado, fiz três espetáculos em duas semanas, assim tipo, caramba, entre criar, produzir e tá no palco, sabe, então, depende muito do tamanho do espetáculo. Depende de muitas coisas, mas
+
+242
+00:25:39.810 --> 00:25:49.959
+Acrides: é uma área que não é regulamentada e as pessoas não veem uma necessidade de regulamentação, tanto pessoas que trabalham no figurino
+
+243
+00:25:50.290 --> 00:25:59.690
+Acrides: quanto às produtoras, não existe uma preocupação em regulamentar. O pessoal do figurino não é regulamentar a palavra, mas, tipo
+
+244
+00:26:00.020 --> 00:26:01.589
+Acrides: ter uma
+
+245
+00:26:02.580 --> 00:26:11.349
+Acrides: ter regras para o pessoal do figurino. Sabe, regras também. Mas, tipo, vou dar um exemplo. Os atores têm um horário definido de ensaio. Tem uma folga semanal. O figurino.
+
+246
+00:26:11.350 --> 00:26:18.430
+Rafael Zuquim: Isso é uma regulamentação, não é uma coisa que é provavelmente definida. Não sei. Por um.
+
+247
+00:26:18.430 --> 00:26:18.970
+Acrides: E aí?
+
+248
+00:26:18.970 --> 00:26:22.759
+Rafael Zuquim: Por um coletivo, por um sindicato, por uma lei. Não sei.
+
+249
+00:26:22.910 --> 00:26:25.099
+Acrides: Pois é. Mas não funciona.
+
+250
+00:26:25.100 --> 00:26:25.730
+Rafael Zuquim: E aí?
+
+251
+00:26:25.730 --> 00:26:44.309
+Acrides: Os atores têm uma carga horária definida. Tem uma folga que é uma folga e normalmente o figurino tem que se adaptar a isso. Mas se a folga na segunda, o figurino está trabalhando na segunda. Mas se o elenco está trabalhando no domingo, o figurino também tem que estar trabalhando no domingo, então acaba. Que
+
+252
+00:26:44.430 --> 00:26:45.420
+Acrides: é.
+
+253
+00:26:45.610 --> 00:26:54.410
+Acrides: Todas as áreas vão se adaptando a uma área, só só que nenhuma das outras áreas se adapta às que não estão.
+
+254
+00:26:55.050 --> 00:26:56.480
+Acrides: Enfim, acho que.
+
+255
+00:26:56.480 --> 00:26:59.570
+Rafael Zuquim: Deu aprender. Tá ótimo. Às vezes perfeito.
+
+256
+00:26:59.870 --> 00:27:00.960
+Acrides: Passar a mensagem.
+
+257
+00:27:00.960 --> 00:27:01.670
+Rafael Zuquim: E aí?
+
+258
+00:27:02.030 --> 00:27:02.610
+Acrides: É o.
+
+259
+00:27:02.610 --> 00:27:18.400
+Rafael Zuquim: E o tempo dedicado ao trabalho costuma corresponder ao que você inicialmente previu que iria acontecer. Por exemplo, você projeta. Ah, eu vou trabalhar tantas horas nesse treco. Tantos tempos nesse treco. E encaixa. Ou você.
+
+260
+00:27:19.750 --> 00:27:23.739
+Acrides: Normalmente tem que encaixar, porque tem a data de estreia.
+
+261
+00:27:23.740 --> 00:27:24.480
+Rafael Zuquim: E aí?
+
+262
+00:27:25.130 --> 00:27:40.989
+Acrides: Sempre tem uma data final de entrega. Então essa data final meio que molda todo o processo. Tipo, se eu tenho duas semanas. Eu vou ter que resolver em duas semanas. É muito mais uma questão de ter que resolver, de ser obrigado a resolver do que
+
+263
+00:27:41.230 --> 00:27:45.120
+Acrides: me organizar para resolver. Sabe.
+
+264
+00:27:45.120 --> 00:27:45.780
+Rafael Zuquim: Perfeito.
+
+265
+00:27:46.260 --> 00:27:48.589
+Acrides: E isso causa muito estresse.
+
+266
+00:27:48.590 --> 00:27:49.640
+Rafael Zuquim: Que.
+
+267
+00:27:49.640 --> 00:27:55.059
+Acrides: Mas é como sempre acontece. Assim, tipo, não tem muita,
+
+268
+00:27:55.290 --> 00:28:07.069
+Acrides: muita organização, tanto da produção muitas vezes. Porque, ai, sei lá duas semanas para estrear. Ai, a gente não tem figurino ainda. Você quer fazer o nosso figurino, mano? Vocês estão há quanto tempo.
+
+269
+00:28:07.070 --> 00:28:07.660
+Rafael Zuquim: E aí?
+
+270
+00:28:07.660 --> 00:28:08.470
+Acrides: Ensaio.
+
+271
+00:28:08.470 --> 00:28:09.550
+Rafael Zuquim: Ando.
+
+272
+00:28:09.550 --> 00:28:13.860
+Acrides: Aí. Você está sem trabalho e você aceita uma bomba dessa.
+
+273
+00:28:14.500 --> 00:28:15.120
+Rafael Zuquim: Uhum.
+
+274
+00:28:15.120 --> 00:28:23.209
+Acrides: Mas enfim, é isso. Não tem uma carga horária definida. Você trabalha
+
+275
+00:28:23.790 --> 00:28:31.569
+Acrides: como que tem e o que precisa ser feito, tipo, essa semana. Saquei catorze horas no teatro, já, tipo, direto.
+
+276
+00:28:31.570 --> 00:28:32.180
+Rafael Zuquim: E.
+
+277
+00:28:32.180 --> 00:28:34.139
+Acrides: Que tinha que fazer as coisas.
+
+278
+00:28:34.280 --> 00:28:48.289
+Acrides: E aí, tipo, agora, no Shrek, eu tô tendo que gerir pessoas também, porque a gente está com a equipe de camareiras todas já trabalhando para fazer a finalização dos figurinos. Elas entraram antes para fazer a finalização.
+
+279
+00:28:48.290 --> 00:28:58.760
+Acrides: Só que elas só fazem se eu disser o que tem pra fazer. E para eu dizer o que tem pra fazer, eu tenho que organizar as coisas pra fazer. Mas eu também tenho o que fazer. Porque tem coisa que sou eu que tenho que fazer.
+
+280
+00:28:58.770 --> 00:28:59.560
+Acrides: Então.
+
+281
+00:28:59.560 --> 00:28:59.950
+Rafael Zuquim: E aí?
+
+282
+00:28:59.950 --> 00:29:01.520
+Acrides: Uma grande bola de neve,
+
+283
+00:29:01.750 --> 00:29:14.059
+Acrides: e eu só consigo realmente organizar o que elas têm pra fazer quando elas vão embora. Então elas vão embora e eu fico lá, organizando o dia seguinte, sabe? Então não existe uma carga horária definida assim,
+
+284
+00:29:14.200 --> 00:29:15.050
+Acrides: só quando você.
+
+285
+00:29:15.050 --> 00:29:20.190
+Rafael Zuquim: E como que fica um quando. Desculpa, eu não cortei sua última frase.
+
+286
+00:29:20.190 --> 00:29:29.879
+Acrides: Não, elas têm uma carga horária, porque elas são pessoas contratadas no figurino. Mas as pessoas que estão cabeçando figurino não têm uma carga horária definida.
+
+287
+00:29:30.370 --> 00:29:31.590
+Rafael Zuquim: Criativo em si.
+
+288
+00:29:31.590 --> 00:29:33.579
+Acrides: É o criativo, não tem.
+
+289
+00:29:34.140 --> 00:29:39.239
+Rafael Zuquim: E como é que ficam os momentos de descanso, lazer, convivência. Durante um projeto.
+
+290
+00:29:39.240 --> 00:29:42.740
+Acrides: Eles não existem.
+
+291
+00:29:43.070 --> 00:29:55.220
+Acrides: Então meio que é por necessidade. Existem pessoas e pessoas, obviamente tem pessoas que não abrem mão disso. Tipo assim? O trabalho que se ferre não deu tempo. Não deu tempo.
+
+292
+00:29:55.720 --> 00:29:57.390
+Acrides: Eu não consigo ser assim.
+
+293
+00:29:57.890 --> 00:29:59.060
+Rafael Zuquim: É.
+
+294
+00:29:59.240 --> 00:30:07.450
+Acrides: Se tem alguma coisa para fazer, vou ter que fazer. E nem que eu vire a madrugada fazendo. Mas vou entregar, porque normalmente é o seu nome que está envolvido.
+
+295
+00:30:07.760 --> 00:30:15.359
+Acrides: E aí entra aquele papo que a gente teve lá nas primeiras perguntas de tipo, você só vai ser chamado para um próximo. Se gostaria do seu trabalho,
+
+296
+00:30:15.590 --> 00:30:23.120
+Acrides: então você está em constante aprovação das pessoas para conseguir continuar trabalhando
+
+297
+00:30:23.160 --> 00:30:41.319
+Acrides: quando você tem um nome no mercado. Não precisa disso. Tipo, tem muito figurinista que está há noventa anos no mercado. Aí faz um trabalho ruim. Tá tudo bem. É só um trabalho ruim. Mas quando você tá começando, se você faz um trabalho ruim, tipo assim, a pessoa não tem muito parâmetro. Então ela vai analisar aquele trabalho ruim. Não vai te chamar para o próximo, sabe?
+
+298
+00:30:41.670 --> 00:30:51.599
+Acrides: Então meio que você se vê numa via de mão dupla, ao mesmo tempo que estou sendo muito injusto numa rotina de autodestruição comigo mesmo.
+
+299
+00:30:51.740 --> 00:31:00.560
+Acrides: Mas meio que depende disso. Para eu continuar trabalhando com o que eu gosto e com o que eu quero trabalhar.
+
+300
+00:31:01.380 --> 00:31:07.760
+Rafael Zuquim: Perfeito e como que são normalmente os contratos, os acordos, o que fica definido nesses contratos.
+
+301
+00:31:08.520 --> 00:31:20.059
+Acrides: Normalmente não tem contrato, né? A gente só trabalha pela palavra das pessoas. E se o dinheiro está caindo na conta. A gente continua trabalhando. Se não cai, a gente diz assim: Gente, não vou fazer.
+
+302
+00:31:20.440 --> 00:31:23.040
+Acrides: Mas
+
+303
+00:31:24.660 --> 00:31:42.909
+Acrides: depende muito. Assim, quando você voltamos, quando você já tem o nome no mercado. Você consegue acordar algumas coisas? Sei lá. Preciso de dois assistentes. Essa verba não é suficiente. Preciso que aumente a verba. Não sei o que. Não sei o que a produção aceita
+
+304
+00:31:43.130 --> 00:31:49.670
+Acrides: quando você está começando. Você não é ninguém, digamos assim. Você não tem uma carreira consolidada
+
+305
+00:31:50.080 --> 00:32:04.280
+Acrides: se você fizer algumas exigências. Tá bom. Tudo bem. A gente chama outro. Então meio que você acaba aceitando. Se você precisa trabalhar, você acaba aceitando coisas que talvez não fossem as ideais assim. Sabe,
+
+306
+00:32:04.730 --> 00:32:13.139
+Acrides: isso é triste. É muito triste porque você sabe que está entrando numa cilada. Mas você tem que entrar naquela cilada para pagar o aluguel do mês seguinte.
+
+307
+00:32:13.260 --> 00:32:14.610
+Acrides: Então
+
+308
+00:32:15.050 --> 00:32:28.410
+Acrides: é complexo essa questão de contratos e a gente entra na regulamentação lá da outra pergunta também porque não existe uma fiscalização. Nem sei se é o satél que teria que fiscalizar isso.
+
+309
+00:32:28.520 --> 00:32:37.299
+Acrides: Mas não existe uma fiscalização trabalhista. Não existe uma organização trabalhista dos trabalhadores dessa área para
+
+310
+00:32:37.440 --> 00:32:42.190
+Acrides: exigir algumas coisas básicas de trabalho,
+
+311
+00:32:42.490 --> 00:32:46.420
+Acrides: principalmente para as pessoas que estão tentando entrar na área.
+
+312
+00:32:47.780 --> 00:32:48.570
+Rafael Zuquim: Entendi.
+
+313
+00:32:48.800 --> 00:32:56.490
+Rafael Zuquim: E já aconteceu de algum trabalho ser cancelado, interrompido. Ou você teve que abandonar por algum motivo. E se foi o caso. Como é que você se sentiu.
+
+314
+00:32:56.490 --> 00:32:58.330
+Acrides: É.
+
+315
+00:32:58.330 --> 00:32:58.680
+Rafael Zuquim: E tem.
+
+316
+00:32:58.680 --> 00:33:04.160
+Acrides: Foi cancelado, que eu me senti livre porque eu tava.
+
+317
+00:33:04.160 --> 00:33:04.590
+Rafael Zuquim: E.
+
+318
+00:33:04.590 --> 00:33:06.020
+Acrides: Uma bomba.
+
+319
+00:33:06.300 --> 00:33:12.520
+Acrides: E aí ele foi cancelado. E eu só agradeci por ter recebido uma parcela. Pelo menos
+
+320
+00:33:12.680 --> 00:33:17.010
+Acrides: é. Mas foi difícil porque ninguém do elenco recebeu. Tava, tipo, todo mundo. Já.
+
+321
+00:33:17.010 --> 00:33:17.510
+Rafael Zuquim: E se.
+
+322
+00:33:18.080 --> 00:33:20.000
+Acrides: Todo mundo já tinha assinado o contrato.
+
+323
+00:33:20.130 --> 00:33:24.130
+Acrides: Fazia dois meses que estava todo mundo contratado.
+
+324
+00:33:24.750 --> 00:33:31.209
+Acrides: É, então as pessoas não fizeram audição para outros trabalhos. Não aceitaram os trabalhos porque tinha aquele.
+
+325
+00:33:31.520 --> 00:33:36.869
+Acrides: E aí, do nada, ele foi cancelado. Todo mundo foi avisado pelo Whatsapp E era um musical grande, tá? Não era tipo
+
+326
+00:33:36.970 --> 00:33:52.769
+Acrides: teatro de goma. Foi cancelado e todo mundo teve que seguir sua vida porque, tipo, a produtora. Meio que se virem assim. Sabe, eu tinha recebido uma parcela, pelo menos de três. Tinha recebido pelo mês que eu tinha trabalhado,
+
+327
+00:33:53.010 --> 00:33:58.620
+Acrides: mas inclusive está tudo organizado aqui no meu computador. Até hoje, no meu drive. Se a peça voltar.
+
+328
+00:33:58.620 --> 00:33:59.199
+Rafael Zuquim: E aí?
+
+329
+00:33:59.200 --> 00:33:59.770
+Acrides: Tem um figurino.
+
+330
+00:33:59.770 --> 00:34:02.870
+Rafael Zuquim: Se um dia montarem você já.
+
+331
+00:34:03.060 --> 00:34:18.190
+Acrides: Tá o figurino todo pronto, tipo cena, cena já decupada. Mas é isso. Às vezes é livramento. E você sabe que é livramento. Quando acontece, às vezes, o livramento não acontece. E você segue na bomba, trabalhando até a estreia.
+
+332
+00:34:18.199 --> 00:34:18.869
+Rafael Zuquim: E aí?
+
+333
+00:34:18.870 --> 00:34:20.839
+Acrides: E é pior ainda do que cancelar.
+
+334
+00:34:21.409 --> 00:34:25.650
+Acrides: Mas é uma sensação de.
+
+335
+00:34:26.659 --> 00:34:29.330
+Acrides: De alívio muitas vezes porque
+
+336
+00:34:30.000 --> 00:34:40.229
+Acrides: você tá naquele projeto só porque é o único que tem. E aí ele é cancelado. Pelo menos não foi só culpa. Sabe, eu que não entreguei. Cancelaram por outros motivos,
+
+337
+00:34:40.600 --> 00:34:41.340
+Acrides: mas a.
+
+338
+00:34:41.340 --> 00:34:42.000
+Rafael Zuquim: E aí?
+
+339
+00:34:42.000 --> 00:34:48.070
+Acrides: Tem tipo, Ah, você está muito afim de fazer aquele trampo. E aí não capta pela lei ou enfim,
+
+340
+00:34:48.170 --> 00:35:04.119
+Acrides: e aí, tipo, não vai acontecer. O meu nome já foi para projetos assim, pra assinar o figurino e não passou no projeto. E aí você fica poxa. Queria tanto que isso desse certo. Não deu por outros motivos. Enfim, mas
+
+341
+00:35:04.670 --> 00:35:08.180
+Acrides: eu sou muito positivo. Eu sempre acho que vai vir alguma coisa melhor.
+
+342
+00:35:08.300 --> 00:35:18.250
+Rafael Zuquim: Sempre vem. É isso mesmo. E você falou que recebeu a primeira parcela. E tal como que funciona a remuneração nesses projetos.
+
+343
+00:35:19.550 --> 00:35:34.380
+Acrides: É outro tópico sensível. Porque às vezes você faz muito, ganha nada. Às vezes você trabalha e ganha bem, às vezes você trabalha e ganha mal. Tipo, não existe um. É meio que você coloca o seu valor, mas
+
+344
+00:35:35.120 --> 00:35:51.670
+Acrides: tem que estar dentro do que eles estão esperando. Se não aceitam você e chamam outra pessoa, sabe, então é outro tópico, meio complexo e confuso assim, principalmente para quem não tem o seu valor ainda diante do mercado, sabe,
+
+345
+00:35:52.180 --> 00:35:53.990
+Acrides: não existe um.
+
+346
+00:35:54.910 --> 00:36:04.420
+Acrides: Um parâmetro que você segue, porque cada pessoa cobra um valor completamente diferente. Para fazer o mesmo trabalho. Como é um trabalho artístico, é muito difícil você
+
+347
+00:36:04.850 --> 00:36:07.990
+Acrides: taxar o valor da pessoa, sabe, tipo,
+
+348
+00:36:08.320 --> 00:36:18.600
+Acrides: normalmente até para fornecedores. Se você pede um orçamento para uma pessoa e ela passa um orçamento muito alto, você não vai ficar pedindo para ela baixar até
+
+349
+00:36:18.740 --> 00:36:22.979
+Acrides: ficar o valor que você quer. Você vai achar uma pessoa que faz pelo valor que você quer.
+
+350
+00:36:23.140 --> 00:36:26.750
+Acrides: Então é meio que isso nessa área também.
+
+351
+00:36:26.980 --> 00:36:35.769
+Acrides: Mas existem conversas para, tipo, se a pessoa quer muito que você faça, você vai conversar e tentar ajustar ali um valor que seja viável.
+
+352
+00:36:36.110 --> 00:36:41.000
+Acrides: Mas não existe um teto salarial. Sabe
+
+353
+00:36:41.160 --> 00:36:50.590
+Acrides: tanto que agora que eu estou trabalhando mais com figurino, muitas pessoas me chamam para muitas pessoas. Sei lá, umas cinco, seis. Me chamaram.
+
+354
+00:36:50.590 --> 00:36:51.210
+Rafael Zuquim: E aí?
+
+355
+00:36:51.210 --> 00:37:00.080
+Acrides: Pra perguntar sobre valor assim que a pessoa tipo, ai me chamaram pra um trampo. Não faço ideia de quanto cobrar. Tipo, quanto você cobraria?
+
+356
+00:37:00.380 --> 00:37:04.200
+Acrides: E eu sinto que as pessoas mais novas.
+
+357
+00:37:04.740 --> 00:37:08.229
+Acrides: Desculpa, tá difícil? A respiração.
+
+358
+00:37:08.230 --> 00:37:09.200
+Rafael Zuquim: Fiquem mais.
+
+359
+00:37:09.200 --> 00:37:13.909
+Acrides: Novas. Elas têm um pouco mais de facilidade para falar sobre valor.
+
+360
+00:37:14.200 --> 00:37:21.250
+Acrides: Tenho sentido isso assim tipo, mano, quanto você cobraria pra fazer isso. Não faço ideia de quanto cobrar. Sabe.
+
+361
+00:37:21.250 --> 00:37:21.750
+Rafael Zuquim: Uhum.
+
+362
+00:37:21.750 --> 00:37:27.439
+Acrides: Existe essa liberdade um pouco maior, e as pessoas que fazem figurino por serem poucas,
+
+363
+00:37:27.720 --> 00:37:33.970
+Acrides: elas acabam se entrosando um pouco mais nesse sentido. De tipo
+
+364
+00:37:34.190 --> 00:37:41.829
+Acrides: de parceria mesmo. Sabe, não são vistas como ai. Sei lá, meu concorrente, tipo, vai pegar um trabalho.
+
+365
+00:37:41.830 --> 00:37:42.380
+Rafael Zuquim: Não queria.
+
+366
+00:37:42.480 --> 00:37:53.790
+Acrides: Vejo muito mais o contrário acontecendo. De tipo: Não, vamos lá. Vou te ajudar. Vou te apresentar para essas pessoas aqui para você trabalhar com elas também.
+
+367
+00:37:54.170 --> 00:38:00.340
+Acrides: Então não sei te responder essa pergunta. Se eu não respondi não tranquilo.
+
+368
+00:38:00.340 --> 00:38:07.890
+Rafael Zuquim: Não é? Acho que respondeu. Varia e tal e prazo de recebimento. É tipo assim. Você recebe parceladinho, né?
+
+369
+00:38:08.440 --> 00:38:10.110
+Acrides: Aí? Depende.
+
+370
+00:38:10.150 --> 00:38:11.840
+Rafael Zuquim: Tudo. Varia.
+
+371
+00:38:11.840 --> 00:38:13.930
+Acrides: E às vezes você recebe de uma vez.
+
+372
+00:38:13.930 --> 00:38:15.689
+Rafael Zuquim: Você é bonito.
+
+373
+00:38:15.690 --> 00:38:16.600
+Acrides: Vezes.
+
+374
+00:38:16.830 --> 00:38:21.340
+Rafael Zuquim: Justo. Vamos seguir. Porque senão a gente fica nesse.
+
+375
+00:38:21.340 --> 00:38:21.710
+Acrides: É calo.
+
+376
+00:38:21.710 --> 00:38:23.929
+Rafael Zuquim: E eu estou tomando bastante seu tempo.
+
+377
+00:38:23.930 --> 00:38:24.340
+Acrides: A mais.
+
+378
+00:38:24.340 --> 00:38:25.310
+Rafael Zuquim: É.
+
+379
+00:38:25.440 --> 00:38:25.980
+Acrides: Obrigado.
+
+380
+00:38:26.660 --> 00:38:36.040
+Rafael Zuquim: E você falou mais cedo que você. Agora está vivendo só de figurino. Mas antes você complementava a renda com o trabalho de publicidade.
+
+381
+00:38:36.180 --> 00:38:55.109
+Acrides: Sim, sim. Eu trabalhava em agência. Fazia frila. Eu faço frila ainda de publicidade. Então, de vez em quando, entra uma graninha extra. Mas eu acho que eu fico muito tranquilo de trabalhar com figurino, porque eu sei que se em algum momento isso der ruim, eu tenho uma segunda opção. Sabe para onde eu posso correr?
+
+382
+00:38:55.220 --> 00:38:56.130
+Acrides: É um.
+
+383
+00:38:56.130 --> 00:38:56.830
+Rafael Zuquim: Jus.
+
+384
+00:38:57.400 --> 00:39:00.210
+Acrides: E muitas pessoas não têm isso, né? Então, tipo,
+
+385
+00:39:00.810 --> 00:39:06.650
+Acrides: me sinto privilegiado por ter essa segunda opção. Por ter para onde correr. Se tudo der errado.
+
+386
+00:39:06.650 --> 00:39:21.610
+Rafael Zuquim: Ainda falando. A próxima pergunta seria ainda falando de remuneração. Como que você avalia a relação do esforço que você investe na sua profissão. E o pagamento que você recebe financeiro.
+
+387
+00:39:22.950 --> 00:39:26.840
+Acrides: Cara, isso aí é difícil.
+
+388
+00:39:27.760 --> 00:39:29.539
+Rafael Zuquim: Não tem pergunta fácil hoje.
+
+389
+00:39:29.540 --> 00:39:30.660
+Acrides: Não tem.
+
+390
+00:39:30.660 --> 00:39:31.340
+Rafael Zuquim: E aí?
+
+391
+00:39:31.820 --> 00:39:35.540
+Acrides: Hoje foi um dia difícil. Então tudo está batendo em lugares.
+
+392
+00:39:35.540 --> 00:39:42.730
+Rafael Zuquim: Eu acho que eu não sei se eu falei no começo, mas você fica à vontade pra não responder nada que você não quiser responder, não precisa.
+
+393
+00:39:42.730 --> 00:39:52.519
+Acrides: É só que a gente fica pensando. Acho que existe uma questão para além de tudo, que é a função que você está desempenhando?
+
+394
+00:39:52.650 --> 00:40:01.260
+Acrides: Tipo, você sempre vai começar como assistente. Isso é um fato. Você vai assinar a figurino dos seus amigos de um lugar que
+
+395
+00:40:01.260 --> 00:40:15.830
+Acrides: vai olhar para você e querer muito que você faça. Mas vai ser, tipo assim. Um e um milhão. Você sempre vai começar como assistente. E dependendo de quem você for assistente, você vai trabalhar muito mais do que a pessoa e a pessoa vai receber muito mais que você.
+
+396
+00:40:16.060 --> 00:40:23.250
+Acrides: Então é complexo lidar com isso muitas vezes, porque você vai trabalhar muito mais.
+
+397
+00:40:23.490 --> 00:40:30.650
+Acrides: A pessoa vai fazer um terço do trabalho muitas vezes, ou vai ficar responsável por, tipo,
+
+398
+00:40:30.780 --> 00:40:38.200
+Acrides: fazer a comunicação com a produção e com fornecedores, mas o trabalho
+
+399
+00:40:38.520 --> 00:40:42.459
+Acrides: trabalho mesmo vai ser o assistente que vai fazer.
+
+400
+00:40:42.610 --> 00:40:57.740
+Acrides: E você vai receber menos que a pessoa. E aí, tipo, às vezes você desenha os figurinos. Você produz figurinos. E quem assina outra pessoa quem ganha vai para muito além de salário. Também acho que a remuneração
+
+401
+00:40:57.910 --> 00:41:03.270
+Acrides: não é só o dinheiro, mas também o reconhecimento que você vai ter pelo seu trabalho,
+
+402
+00:41:03.590 --> 00:41:13.149
+Acrides: que é um pouco ingrato. Isso. Mas no meio da arte acaba tendo esse tipo de remuneração também
+
+403
+00:41:13.270 --> 00:41:18.430
+Acrides: é o que vai te garantir trabalhos futuros a
+
+404
+00:41:18.840 --> 00:41:32.749
+Acrides: você. Vai trabalhar. Outra pessoa vai receber o conhecimento, tipo o figurino, vai o nome dela. E aí você fica lá, tipo, hum, tá bom, mas a remuneração é normalmente baixa para o
+
+405
+00:41:32.910 --> 00:41:34.690
+Acrides: trabalho que você tem. Sabe.
+
+406
+00:41:34.940 --> 00:41:36.030
+Rafael Zuquim: É.
+
+407
+00:41:36.030 --> 00:41:40.469
+Acrides: E a gente estava falando sobre isso essa semana, inclusive no ateliê.
+
+408
+00:41:40.870 --> 00:41:44.130
+Acrides: Existe uma desvalorização do trabalho de bastidor,
+
+409
+00:41:44.440 --> 00:42:01.230
+Acrides: muitas vezes, até dos atores também não. Que ator ganhe muito mais. Ou que, sei lá, direção ganhe muito mais. Normalmente ganha. Mas, enfim, existe uma desvalorização das pessoas que estão por trás, como se elas fossem talvez menos importantes.
+
+410
+00:42:01.450 --> 00:42:18.029
+Acrides: Mas as pessoas que encabeçam o projeto, que têm o nome delas. Lá ganham muito mais por estarem assumindo uma responsabilidade, digamos assim. Só que o trabalho pesado mesmo são essas pessoas de bastidor que fazem, sabe,
+
+411
+00:42:18.160 --> 00:42:37.279
+Acrides: então é meio complexo. É uma questão que vai além do dinheiro, da remuneração em dinheiro. Passa por outros caminhos e eu sempre falo que tipo para trabalhar com arte, você tem que ter uma cabeça muito boa, porque senão você vai enlouquecer em duas semanas assim,
+
+412
+00:42:37.750 --> 00:42:42.050
+Acrides: o amigo que mora comigo ouve muito. Tipo assim. A gente conversa muito. Ele é ator.
+
+413
+00:42:42.540 --> 00:42:43.060
+Rafael Zuquim: Uhum.
+
+414
+00:42:43.060 --> 00:42:52.250
+Acrides: Então tem madrugadas. Assim que a gente entra em conversas de tipo mano. Não faz sentido o que a gente faz.
+
+415
+00:42:52.460 --> 00:43:05.930
+Acrides: Tipo assim, a gente recebe pouquíssimo pelo trabalho imenso e desgastante, que é tanto mental quanto físico para fazer um trabalho desse tipo. Sabe.
+
+416
+00:43:06.420 --> 00:43:25.089
+Rafael Zuquim: Eu tenho uma anedota de uma estreia que eu assisti, que o diretor acabou. Era uma estreia e tal, e aí eles falam e tal. E ele falou: Ah, e eu queria agradecer essas duas aqui. Aí falou o nome das duas mulheres. Sem elas. Não seria isso. Aqui tudo não seria possível. E ele errou o nome de uma delas.
+
+417
+00:43:25.200 --> 00:43:33.680
+Rafael Zuquim: Aí ele falou: o nome é, eu não vou falar. Quem. Mas aí eu vou falar tipo Fernanda e Juliano. Aí a Juliana falou, não é, Júlia?
+
+418
+00:43:33.680 --> 00:43:34.100
+Acrides: É a.
+
+419
+00:43:34.210 --> 00:43:35.639
+Rafael Zuquim: É isso aí.
+
+420
+00:43:35.640 --> 00:43:38.599
+Acrides: Nada disso teria acontecido.
+
+421
+00:43:38.600 --> 00:43:43.929
+Rafael Zuquim: E o rapaz não sabe nem o nome da pessoa.
+
+422
+00:43:44.060 --> 00:43:46.670
+Rafael Zuquim: Bem, seguindo.
+
+423
+00:43:47.030 --> 00:43:52.880
+Rafael Zuquim: E quais são as condições de trabalho nos ambientes em que você atua.
+
+424
+00:43:55.690 --> 00:44:00.649
+Acrides: É muito relativo também, porque depende da produção e
+
+425
+00:44:01.110 --> 00:44:15.819
+Acrides: do tamanho da produção e do valor que tem investido. Muitas vezes você não tem nenhum lugar para trabalhar. Mas outras vezes você tem um ateliê disponível para você. É muito discrepante. Uma coisa da outra.
+
+426
+00:44:16.090 --> 00:44:23.079
+Acrides: Muitos figurinistas que estão há mais tempo no mercado têm o seu próprio ateliê de trabalho.
+
+427
+00:44:23.310 --> 00:44:28.769
+Acrides: Tipo, você aceita um trabalho? Ele vai ter um lugar para trabalhar. E é isso. Mas
+
+428
+00:44:29.570 --> 00:44:38.770
+Acrides: quando você não tem novamente trazendo para o início de carreira, é muito discrepante, porque às vezes, quando é uma produção maior,
+
+429
+00:44:38.860 --> 00:44:50.050
+Acrides: uma produção maior e que tem uma condição um pouco melhor de trabalho de estrutura. Você vai ter um ambiente mais estruturado para trabalhar. Você vai ter
+
+430
+00:44:50.050 --> 00:45:08.639
+Acrides: mais organização. Mas quando é uma produção menor, muitas vezes não tem nenhuma pessoa para organizar o dia a dia. Um cronograma de ensaio. Então você não tem horário para provar figurino? Você não tem horário. Você não sabe nem quando está acontecendo o ensaio, então é muito discrepante. Uma coisa da outra.
+
+431
+00:45:08.720 --> 00:45:11.670
+Acrides: Existem
+
+432
+00:45:12.120 --> 00:45:16.660
+Acrides: dois extremos, e você às vezes está em um. Às vezes está em outro. Às vezes está no meio.
+
+433
+00:45:16.760 --> 00:45:17.710
+Rafael Zuquim: E em.
+
+434
+00:45:17.710 --> 00:45:31.570
+Acrides: Então não existe uma condição de trabalho. A não ser que você imponha isso a gente volta na outra pergunta. A não ser que você tenha culhão e tempo de estrada para impor essas condições,
+
+435
+00:45:31.780 --> 00:45:42.979
+Acrides: você acaba tendo inúmeras formas de se adaptar a esses ambientes de trabalho e a essas condições que te impõem,
+
+436
+00:45:43.230 --> 00:45:50.069
+Acrides: é não tem uma resposta certa e nem errada.
+
+437
+00:45:50.700 --> 00:45:54.219
+Rafael Zuquim: E existem riscos físicos no seu trabalho.
+
+438
+00:45:55.290 --> 00:45:56.270
+Acrides: É?
+
+439
+00:45:57.180 --> 00:46:03.980
+Acrides: Não sei se seria. Existe risco físico, né? Primeira exaustão do seu corpo.
+
+440
+00:46:03.980 --> 00:46:04.860
+Rafael Zuquim: E aí?
+
+441
+00:46:05.230 --> 00:46:11.350
+Acrides: Mas, tipo, dependendo do figurino que você tá trabalhando. Você lida com maquinário?
+
+442
+00:46:12.140 --> 00:46:20.599
+Acrides: Sei lá, você pode cortar dedo, cortar a mão? Sei lá. Não sei. Existe risco físico, mas mental.
+
+443
+00:46:20.600 --> 00:46:21.360
+Rafael Zuquim: É feito.
+
+444
+00:46:21.440 --> 00:46:22.430
+Acrides: Principalmente.
+
+445
+00:46:22.430 --> 00:46:23.180
+Rafael Zuquim: E aí?
+
+446
+00:46:24.080 --> 00:46:28.209
+Rafael Zuquim: E como que você lida com possíveis imprevistos que te ausentem do trabalho.
+
+447
+00:46:29.100 --> 00:46:35.310
+Acrides: É difícil. Essa semana, eu passei a semana inteira doente, por exemplo, e indo trabalhar
+
+448
+00:46:35.500 --> 00:46:52.400
+Acrides: e doente por conta da rotina do trabalho. Isso que é o mais doido assim, porque essas últimas semanas, normalmente eu sempre sou uma pessoa que fico doente, porque minha humanidade baixa, porque eu não estou me alimentando bem. Estou trabalhando milhões de horas por dia. Minha cabeça não para então, tipo, acabo ficando doente.
+
+449
+00:46:52.640 --> 00:47:02.200
+Acrides: Só que eu não paro de trabalhar, entendeu? Porque se eu não vou, tem pessoas que dependem daquilo. E o espetáculo tem uma data de estreia, e a gente volta mais uma vez
+
+450
+00:47:02.650 --> 00:47:09.440
+Acrides: para o ponto final. Que existe uma data, e ela não pode ser adiada. Então você tem que entregar de um jeito ou de outro.
+
+451
+00:47:10.060 --> 00:47:21.560
+Acrides: E aí você tem que lidar com as circunstâncias. O risco físico é só mais uma circunstância de todas as outras do trabalho.
+
+452
+00:47:23.780 --> 00:47:26.379
+Rafael Zuquim: E o que te faz recusar um trabalho.
+
+453
+00:47:27.590 --> 00:47:33.190
+Acrides: Se vai me pagar muito mal, é se
+
+454
+00:47:33.630 --> 00:47:40.770
+Acrides: são algumas coisas. Se não vai me pagar o que eu acredito que eu mereço hoje em dia. Eu já consigo fazer isso.
+
+455
+00:47:40.950 --> 00:47:49.839
+Acrides: Se é um projeto que eu não acredito, ou com pessoas que eu sei que são caloteiras ou que são insuportáveis de trabalhar, porque,
+
+456
+00:47:50.000 --> 00:47:58.149
+Acrides: assim como a gente trabalha bem para ser chamado para os próximos, a gente também fica sabendo de histórias das pessoas que você não pode trabalhar jamais na sua vida.
+
+457
+00:47:58.150 --> 00:47:59.030
+Rafael Zuquim: E aí?
+
+458
+00:47:59.030 --> 00:48:14.369
+Acrides: Então acho que essas são as três coisas principais. Se eu vou curtir, fazer aquele trabalho, e aí entra uma questão de satisfação própria, de fazer arte. Assim, fazer alguma coisa que você acredita
+
+459
+00:48:14.760 --> 00:48:22.949
+Acrides: às vezes tem que receber. Mas, tipo, se você está acreditando que aquilo ali vai te trazer algo. Nem é
+
+460
+00:48:23.180 --> 00:48:31.080
+Acrides: financeiramente. Mas se você acredita que aquilo ali vai te engrandecer como pessoa, como artista. Você vai fazer muitas vezes mesmo de graça.
+
+461
+00:48:31.420 --> 00:48:45.999
+Acrides: Fora projetos pra amigos, tipo assim. Ah, preciso de um help aqui. Faz o figurino pra mim, essas coisas sempre acontecem. E aí vai de uma não valorização do trabalho também. Mas, enfim, não vamos entrar nesse ponto.
+
+462
+00:48:46.000 --> 00:48:46.790
+Rafael Zuquim: E aí?
+
+463
+00:48:46.790 --> 00:48:55.249
+Acrides: Acho que são essas três coisas: não pagar o que eu acho que eu devo receber. Não ter um orçamento.
+
+464
+00:48:56.280 --> 00:49:01.699
+Acrides: Que tipo assim seja. Realista. R três,zero. Uma coxinha para fazer quinze figurinos.
+
+465
+00:49:01.700 --> 00:49:02.750
+Rafael Zuquim: É.
+
+466
+00:49:02.750 --> 00:49:07.689
+Acrides: Não aceito. Muito obrigado. Porque eu sei que é uma bomba, que eu vou só me ferrar depois.
+
+467
+00:49:08.140 --> 00:49:08.710
+Rafael Zuquim: Uhum.
+
+468
+00:49:08.710 --> 00:49:14.179
+Acrides: E trabalhar com pessoas que eu não quero trabalhar. São as três coisas.
+
+469
+00:49:14.860 --> 00:49:20.390
+Rafael Zuquim: Beleza. E o que você sente ao ver um figurino seu sendo usado em cena.
+
+470
+00:49:21.620 --> 00:49:25.110
+Acrides: Cara. Às vezes é ódio. Às vezes é amor.
+
+471
+00:49:25.270 --> 00:49:25.730
+Rafael Zuquim: E aí?
+
+472
+00:49:25.730 --> 00:49:32.839
+Acrides: É, tem muitas vezes que é alívio. Na maioria das vezes, eu acho que é alívio, porque
+
+473
+00:49:33.140 --> 00:49:36.909
+Acrides: por mais que a gente goste muito do que a gente está fazendo.
+
+474
+00:49:37.140 --> 00:49:48.590
+Acrides: As últimas semanas são sempre complexas para qualquer espetáculo. Seja um espetáculo que você teve muito tempo para fazer um espetáculo tranquilo. Um espetáculo que foi horroroso.
+
+475
+00:49:48.750 --> 00:49:52.269
+Acrides: Sempre é uma sensação de alívio de tipo assim.
+
+476
+00:49:52.540 --> 00:49:55.959
+Acrides: Nossa, está ali está pronto.
+
+477
+00:49:56.230 --> 00:49:58.949
+Acrides: Existe também uma sensação
+
+478
+00:49:59.160 --> 00:50:18.240
+Acrides: muito narcisista. Eu sinto assim que é tipo, as pessoas estão vendo coisas que eu criei na minha cabeça. E elas estão gostando, tipo, é uma aprovação daquilo que você criou assim. E eu acho que isso é muito uma coisa de artista, no geral, não só de figurino,
+
+479
+00:50:18.310 --> 00:50:24.789
+Acrides: mas tipo, ter a aprovação do outro quando você está em cima do palco, quando o seu trabalho está no palco.
+
+480
+00:50:25.840 --> 00:50:26.970
+Acrides: É,
+
+481
+00:50:27.090 --> 00:50:45.009
+Acrides: às vezes é tipo assim. Uma vergonha imensa do trabalho que você apresentou. Porque, tipo, não teve condições, não teve tempo. Não teve muitas coisas. E aí você olha para aquilo e diz assim: pelo menos está entregue. Espero que as pessoas nem venham assistir.
+
+482
+00:50:45.010 --> 00:50:46.250
+Rafael Zuquim: E aí?
+
+483
+00:50:46.590 --> 00:50:58.989
+Acrides: Então é um misto assim? Depende muito do projeto. E principalmente, do processo do projeto de como foi até chegar ali. Sabe, até aquele momento de ver no palco, eu sempre choro.
+
+484
+00:50:59.250 --> 00:51:00.699
+Rafael Zuquim: Quando a peça.
+
+485
+00:51:01.420 --> 00:51:08.940
+Acrides: Quando foi um processo minimamente prazeroso de se fazer. É sempre um choro assim.
+
+486
+00:51:09.280 --> 00:51:12.250
+Acrides: De alívio de tipo nossa,
+
+487
+00:51:12.910 --> 00:51:27.410
+Acrides: pare um filho aqui, e as pessoas estão assistindo agora. Sempre tem uma relação com o prazo. Também eu sinto assim, de conseguir cumprir o prazo, sabe, conseguir colocar em cima do palco.
+
+488
+00:51:28.090 --> 00:51:32.580
+Acrides: Mesmo que tenha sido, tipo, terminei o figurino de madrugada. Mas ele tá pronto em cima do palco.
+
+489
+00:51:32.580 --> 00:51:33.600
+Rafael Zuquim: E aí?
+
+490
+00:51:33.600 --> 00:51:34.480
+Acrides: Então é um.
+
+491
+00:51:34.730 --> 00:51:42.030
+Acrides: É isso, tipo um misto de sensações? Depende muito do processo de como foi até chegar nesse resultado.
+
+492
+00:51:43.010 --> 00:51:43.630
+Rafael Zuquim: É feito
+
+493
+00:51:43.940 --> 00:51:52.059
+Rafael Zuquim: e o quão importante para você é você ter autonomia para expressar sua individualidade ou visão artística nesse trabalho.
+
+494
+00:51:52.930 --> 00:52:01.019
+Acrides: E aí, outra questão complexa como artista, isso é muito,
+
+495
+00:52:01.760 --> 00:52:06.119
+Acrides: muito importante, porque meio que é o ser artista. É exatamente isso.
+
+496
+00:52:06.420 --> 00:52:19.230
+Acrides: Mas na maioria das vezes, voltando ao início de carreira, você não vai expressar nada. Você vai simplesmente fazer um trabalho que foi pensado por outra pessoa, ou muitas vezes
+
+497
+00:52:19.390 --> 00:52:22.980
+Acrides: pensar um trabalho para outra pessoa, dizer que foi ela que fez.
+
+498
+00:52:23.200 --> 00:52:24.810
+Acrides: Então,
+
+499
+00:52:25.570 --> 00:52:35.309
+Acrides: existem sensações diferentes assim. Porque quando você não consegue expressar nada, você só está cumprindo ordens, cumprindo o que outra pessoa pensou.
+
+500
+00:52:35.840 --> 00:52:38.930
+Acrides: É agoniante demais. Assim, pelo menos pra mim,
+
+501
+00:52:39.610 --> 00:52:45.120
+Acrides: quando é uma pessoa que eu estou trabalhando, que tem uma visão parecida com a minha,
+
+502
+00:52:45.310 --> 00:52:54.710
+Acrides: é de boa tipo: Ah, tô fazendo uma coisa que eu acredito também. Então tá tranquilo. Quando você não concorda com nada do que a pessoa está fazendo.
+
+503
+00:52:54.710 --> 00:52:55.800
+Rafael Zuquim: Para.
+
+504
+00:52:55.800 --> 00:53:05.630
+Acrides: Processo de tipo assim. Dor e agonia. Porque você passa o dia trabalhando numa coisa que você não tá acreditando que vai dar bom, entendeu? Que vai ficar ruim.
+
+505
+00:53:05.850 --> 00:53:12.269
+Acrides: E aí você não pode falar nada porque, tipo, você só tá cumprindo ordens ali,
+
+506
+00:53:12.380 --> 00:53:18.130
+Acrides: mas quando você consegue, você tem liberdade para fazer as coisas.
+
+507
+00:53:18.770 --> 00:53:22.020
+Acrides: Principalmente quando você está assinando pelo projeto.
+
+508
+00:53:22.410 --> 00:53:23.440
+Acrides: É
+
+509
+00:53:23.660 --> 00:53:36.539
+Acrides: tipo assim surreal, porque eu me sinto super confortável de expressar o que eu quero transmitir com aquele figurino para aquela história, sabe,
+
+510
+00:53:36.660 --> 00:53:37.800
+Acrides: é.
+
+511
+00:53:38.210 --> 00:53:41.350
+Acrides: E aí sempre que eu faço um projeto assim, de tipo,
+
+512
+00:53:41.500 --> 00:53:45.940
+Acrides: estou assinando. Estou fazendo o que eu quero fazer. O que eu acredito que vai dar certo.
+
+513
+00:53:46.130 --> 00:53:58.370
+Acrides: Me dá força para fazer os outros para ter dinheiro para pagar o aluguel, para futuramente fazer um ficar esperando nessa espera de, tipo, um dia vou ser eu que vou assinar um figurino.
+
+514
+00:53:58.590 --> 00:54:09.310
+Acrides: Só que é um processo doloroso. Demais. Eu converso sempre com um amigo que é muito próximo e que a gente tá meio que no mesmo limbo. Assim de tipo,
+
+515
+00:54:09.650 --> 00:54:21.189
+Acrides: as pessoas nos conhecem, mas ninguém vai nos chamar para assinar um figurino, porque tem outras pessoas que têm um nome muito mais forte para chamar. E essas pessoas vão nos contratar para fazer o figurino delas. Entendeu
+
+516
+00:54:21.440 --> 00:54:26.220
+Acrides: essa eterna esperança de tipo. Um dia vai ser a minha vez.
+
+517
+00:54:26.510 --> 00:54:36.159
+Acrides: Só que chega um momento que tipo enche o saco desse. Esperar um dia vai ser a minha vez, sabe? E aí você, porra? Eu quero fazer outra coisa da minha vida. Não quero mais fazer isso.
+
+518
+00:54:36.420 --> 00:54:43.949
+Acrides: E normalmente é no meio de algum processo que você não está contribuindo artisticamente para nada. Você só tá
+
+519
+00:54:44.050 --> 00:54:48.479
+Acrides: fazendo o que a outra pessoa acredita e não é o que você acredita.
+
+520
+00:54:50.070 --> 00:54:56.179
+Rafael Zuquim: E aí o gancho está perfeito para a próxima pergunta: o que te leva a continuar trabalhando nessa área?
+
+521
+00:54:57.900 --> 00:55:07.500
+Acrides: É difícil, porque acho que isso liga perguntas anteriores.
+
+522
+00:55:07.710 --> 00:55:12.240
+Acrides: Primeiro, o sentimento de estar no palco de alguma forma,
+
+523
+00:55:12.560 --> 00:55:21.420
+Acrides: ver o seu trabalho no palco. Eu sou um discípulo do teatro. Assim, acho que a minha religião teatro, para mim, é uma religião.
+
+524
+00:55:21.420 --> 00:55:22.590
+Rafael Zuquim: E aí?
+
+525
+00:55:22.850 --> 00:55:40.880
+Acrides: Você frequenta. Você acredita tanto naquilo que você quer que as pessoas vão ver aquilo que as pessoas sintam aquilo. Mas só quem realmente acredita e vive naquela religião, digamos assim, entende o sentimento que é estar lá. E eu sou muito,
+
+526
+00:55:40.880 --> 00:55:45.960
+Acrides: muito discípulo do teatro. Assim, acho que estar
+
+527
+00:55:46.030 --> 00:55:57.890
+Acrides: de alguma forma nesse ambiente me dá força para continuar tentando e trabalhando em projetos que às vezes eu não acredito, mas que eu sei que talvez vão me levar para algum lugar.
+
+528
+00:55:58.200 --> 00:56:00.640
+Acrides: E aí é.
+
+529
+00:56:00.800 --> 00:56:07.209
+Acrides: Eu gosto muito de estar no palco, além de fazer figurino para outras pessoas estarem no palco,
+
+530
+00:56:07.740 --> 00:56:11.509
+Acrides: também tem esse sentimento misturado. Não tem como separar.
+
+531
+00:56:12.190 --> 00:56:20.029
+Acrides: Gosto muito de estar ali em cima do palco também. Então, fazer figurino pra outra pessoa estar ali, tipo,
+
+532
+00:56:20.090 --> 00:56:35.099
+Acrides: é muito diferente de uma pessoa que não tem essa vivência do palco. Já ouvi isso diversas vezes. Que tipo, cara? É muito legal saber que você é ator e que você tá pensando num figurino para uma pessoa que vai estar no lugar que você também gosta de estar. Sabe,
+
+533
+00:56:35.290 --> 00:56:40.399
+Acrides: a gente relaciona isso muito com amor também. Tipo, amor é o que faz e
+
+534
+00:56:40.790 --> 00:56:45.579
+Acrides: que é o que, querendo ou não, leva a gente a continuar trabalhando nisso.
+
+535
+00:56:46.040 --> 00:56:51.400
+Acrides: Então acho que eu responderei essa pergunta com isso. De tipo, continuar
+
+536
+00:56:52.530 --> 00:57:09.370
+Acrides: espalhando a mensagem do teatro, continuar acreditando que as pessoas vão ir ao teatro, que as pessoas vão ser tocadas por aquilo independente. Se você está fazendo som, se você está fazendo figurino, se você está em cima do palco. Se você está dirigindo, enfim,
+
+537
+00:57:09.510 --> 00:57:17.460
+Acrides: independente da função que você esteja, o teatro só acontece porque as pessoas acreditam que aquilo ali pode tocar a vida de alguém.
+
+538
+00:57:17.690 --> 00:57:26.699
+Acrides: Então acho que isso que acaba nos dando força para continuar, mesmo sendo tão difícil e tão insalubre muitas vezes.
+
+539
+00:57:26.700 --> 00:57:31.309
+Rafael Zuquim: E como é que você se sente em períodos sem trabalho?
+
+540
+00:57:32.570 --> 00:57:35.710
+Acrides: Desesperado.
+
+541
+00:57:35.710 --> 00:57:36.250
+Rafael Zuquim: E aí?
+
+542
+00:57:36.250 --> 00:57:37.170
+Acrides: E a.
+
+543
+00:57:39.210 --> 00:57:48.650
+Acrides: Desde que eu comecei a trabalhar só com teatro, eu tive pouquíssimos momentos sem trabalho e sou uma exceção. Muita exceção à regra.
+
+544
+00:57:48.990 --> 00:57:54.930
+Acrides: Ano passado, foi o ano que eu trabalhei o ano inteiro só com teatro.
+
+545
+00:57:55.720 --> 00:58:14.740
+Acrides: Eu tive, tipo, duas semanas, sem trabalho, que é, tipo, muito uma exceção, porque as pessoas normalmente ficam períodos inteiros. Tipo, agora, depois do Shrek, eu não tenho trabalho ainda. Então eu estou começando a ficar um pouco preocupado. Não estou me preocupando com isso porque minha cabeça não consegue parar para pensar nisso.
+
+546
+00:58:14.980 --> 00:58:21.209
+Acrides: Mas a partir do momento que acabar, eu sei que tipo, se eu não tiver nada, eu vou começar a tipo, mano.
+
+547
+00:58:21.580 --> 00:58:23.459
+Acrides: E aí. Como é que eu vou fazer? Sabe.
+
+548
+00:58:23.460 --> 00:58:24.290
+Rafael Zuquim: E aí?
+
+549
+00:58:24.290 --> 00:58:30.360
+Acrides: E aí vem muito. Uma questão financeira. Muito mais do que qualquer outra. Coisa
+
+550
+00:58:30.660 --> 00:58:40.059
+Acrides: o fazer teatro, o sentimento de estar ali. Você vai assistir uma peça ou cria alguma coisa e sacia essa vontade.
+
+551
+00:58:40.820 --> 00:58:43.980
+Acrides: Você não pagar as contas é outra questão.
+
+552
+00:58:43.980 --> 00:58:45.330
+Rafael Zuquim: E aí?
+
+553
+00:58:46.160 --> 00:58:53.030
+Acrides: Então é uma relação de desespero. Mesmo com o estar sem trabalho muito mais pelo
+
+554
+00:58:53.920 --> 00:58:58.440
+Acrides: pelo financeiro do que por não estar fazendo algo. Sabe,
+
+555
+00:58:58.910 --> 00:59:05.090
+Acrides: é óbvio que o não estar fazendo algo bate muito forte. Às vezes, principalmente quando você
+
+556
+00:59:05.870 --> 00:59:20.759
+Acrides: quer trabalhar com aquilo e não consegue. E tem que trabalhar com outras coisas que não são ligadas ao que você realmente quer. E acredita, assim como eu trabalhei por algum tempo com publicidade, querendo estar no teatro, querendo fazer teatro.
+
+557
+00:59:20.890 --> 00:59:35.109
+Acrides: E é muito agoniante. Prefiro mil vezes estar trabalhando com teatro e ter esses momentos de agonia, de não ter trabalho do que trabalhar numa coisa que eu acreditava, mas que não me completava.
+
+558
+00:59:35.730 --> 00:59:50.300
+Acrides: Era uma sensação de não completar fisicamente. Assim, é muito doido falar isso porque eu sentia que faltava algo ali e trabalhando agora com teatro. Eu não sinto essa falta. Tipo, era literalmente estar fazendo algo que muitas vezes
+
+559
+00:59:50.470 --> 00:59:52.980
+Acrides: eu gostava, mas que não. Me
+
+560
+00:59:53.110 --> 00:59:55.400
+Acrides: não me completava de alguma forma.
+
+561
+00:59:55.580 --> 01:00:01.900
+Acrides: Então, é uma sensação estranho. É muito estranho.
+
+562
+01:00:01.900 --> 01:00:03.440
+Rafael Zuquim: E aí?
+
+563
+01:00:03.750 --> 01:00:10.360
+Rafael Zuquim: E que mudanças você acha que poderiam melhorar as condições de trabalho na sua profissão?
+
+564
+01:00:11.010 --> 01:00:11.610
+Acrides: Bom dia.
+
+565
+01:00:12.100 --> 01:00:13.440
+Acrides: Vamos lá.
+
+566
+01:00:16.030 --> 01:00:22.280
+Acrides: Eu acho que existem questões que a gente não vai conseguir mudar. Mas
+
+567
+01:00:23.900 --> 01:00:30.529
+Acrides: eu acho que falta um planejamento das produtoras, não só com a área de figurino, mas com
+
+568
+01:00:31.850 --> 01:00:38.410
+Acrides: fazer as coisas com antecedência. Tipo, muitos dos problemas estão relacionados ao tempo.
+
+569
+01:00:38.690 --> 01:00:39.730
+Acrides: É
+
+570
+01:00:39.820 --> 01:00:55.490
+Acrides: principalmente aqui em São Paulo. As pessoas fazem as coisas tipo, pra ontem, e não funciona para o figurino, principalmente porque figurino e cenário, principalmente porque é uma coisa que você tem que construir. Física. Não é tipo
+
+571
+01:00:55.490 --> 01:01:01.140
+Acrides: um ator que faz o ensaio. O diretor pede. Ai, muda isso. E no próximo, ele vai fazer diferente
+
+572
+01:01:01.400 --> 01:01:14.349
+Acrides: para qualquer ajuste no figurino. Ele tem que passar por mãos de pessoas para ele vir ajustado. Então, acho que principalmente uma noção de tempo que falta nos produtores de teatro
+
+573
+01:01:14.550 --> 01:01:15.570
+Acrides: é
+
+574
+01:01:15.600 --> 01:01:29.040
+Acrides: a publicidade tem muito isso, mas tem dinheiro. É muito diferente você produzir algo rápido, mas ter dinheiro para produzir isso. O teatro normalmente não tem o dinheiro necessário para fazer uma produção do tamanho que as pessoas
+
+575
+01:01:29.040 --> 01:01:38.850
+Acrides: almejam. Assim. Mesmo sendo uma produção pequena, às vezes tem dez reais pra você produzir um figurino. Não tô exagerando, mas, tipo, sei lá, cinco mil reais pra produzir
+
+576
+01:01:39.000 --> 01:01:46.589
+Acrides: dezassete figurinos. Eu já fiz isso. É tipo surreal em duas semanas. E aí você não tem tempo, não tem dinheiro.
+
+577
+01:01:46.790 --> 01:02:00.850
+Acrides: E você tem você e você mesmo porque não tem dinheiro para pagar outra pessoa para fazer junto, então é muitas vezes relacionado a tempo e dinheiro. Todos os problemas que acontecem. Depois,
+
+578
+01:02:01.040 --> 01:02:08.800
+Acrides: existe uma questão também de profissionalização das pessoas, eu acho, é,
+
+579
+01:02:09.130 --> 01:02:15.340
+Acrides: existem pouquíssimos cursos relacionados a isso, e muitas pessoas acabam
+
+580
+01:02:15.720 --> 01:02:31.129
+Acrides: ingressando na área porque gostam e aí não sabem fazer. E acabam, tipo, prejudicando, aceitando condições que não seriam as ideais e acabam prejudicando todas as outras pessoas.
+
+581
+01:02:31.260 --> 01:02:42.880
+Acrides: Se você aceita, ninguém vai querer fazer com quem não aceita. E tem uma noção melhor do mercado assim, porque se você tem uma noção melhor. Você sabe o seu valor. Você vai
+
+582
+01:02:43.020 --> 01:02:52.069
+Acrides: isso? Acho que isso em qualquer área, na verdade, sempre tem uma pessoa que vai fazer mais barato, e aí acaba prejudicando todo mundo, porque, enfim,
+
+583
+01:02:52.540 --> 01:02:53.189
+Acrides: é da.
+
+584
+01:02:53.190 --> 01:02:56.079
+Rafael Zuquim: Por necessidade, que é o pagamento.
+
+585
+01:02:56.080 --> 01:03:01.820
+Acrides: Exato, e não julgo de nenhuma forma, porque eu já aceitei muito trabalho por três reais e uma coxinha.
+
+586
+01:03:01.970 --> 01:03:04.460
+Acrides: Mas é?
+
+587
+01:03:05.210 --> 01:03:17.889
+Acrides: Não consigo pensar em mais nada agora. Acho que seria isso. Tempo e dinheiro resolveriam tempo, dinheiro e organização e valorização dos profissionais. Eu acho que seriam quatro tópicos
+
+588
+01:03:18.160 --> 01:03:19.370
+Acrides: que.
+
+589
+01:03:20.010 --> 01:03:22.709
+Acrides: Que resolveriam muitos dos problemas. Sabe.
+
+590
+01:03:23.600 --> 01:03:24.220
+Rafael Zuquim: E aí?
+
+591
+01:03:24.510 --> 01:03:27.190
+Rafael Zuquim: E o que você considera que funciona bem na área.
+
+592
+01:03:30.480 --> 01:03:31.990
+Acrides: Nada.
+
+593
+01:03:31.990 --> 01:03:32.630
+Rafael Zuquim: Não haja.
+
+594
+01:03:32.630 --> 01:03:33.200
+Acrides: É.
+
+595
+01:03:33.200 --> 01:03:33.820
+Rafael Zuquim: Acha?
+
+596
+01:03:36.610 --> 01:03:37.859
+Acrides: Cara. Não sei
+
+597
+01:03:39.510 --> 01:03:58.210
+Acrides: porque também depende muito de produção de produção para produção, porque depende muito das pessoas que você está trabalhando. O teatro é uma coisa. Eu trabalho só mais com teatro, né? Não sei como são nas outras áreas, mas o teatro é uma coisa que se faz muito em grupo, mesmo em produções maiores, mais profissionais.
+
+598
+01:03:58.620 --> 01:04:01.799
+Acrides: Todo mundo depende de todo mundo. Então
+
+599
+01:04:01.920 --> 01:04:07.499
+Acrides: eu venho de teatro de grupo. Pra mim, isso é uma coisa básica assim.
+
+600
+01:04:07.920 --> 01:04:10.119
+Acrides: Então acho que
+
+601
+01:04:11.220 --> 01:04:17.560
+Acrides: as pessoas confiarem nelas mesmas e nas pessoas que estão trabalhando com você. É uma coisa que, tipo?
+
+602
+01:04:18.030 --> 01:04:21.679
+Acrides: Acho que isso precisa funcionar para ser entregue um trabalho.
+
+603
+01:04:22.030 --> 01:04:25.989
+Acrides: É bom te dizer uma coisa que funciona.
+
+604
+01:04:26.510 --> 01:04:32.660
+Acrides: Eu não vou saber, porque, tipo, depende muito de produção para produção. Sabe, é você.
+
+605
+01:04:32.660 --> 01:04:40.490
+Rafael Zuquim: Acho que essa é uma coisa. Esse espírito de corpo, esse trabalho em conjunto, tá? Todo mundo no mesmo time.
+
+606
+01:04:40.680 --> 01:04:41.869
+Rafael Zuquim: Não sei se.
+
+607
+01:04:41.870 --> 01:04:51.110
+Acrides: Uma pessoa está andando para trás. Ninguém anda pra frente. É um saco. Isso porque às vezes você acha que a pessoa vai só contribuir. E ela só atrapalha.
+
+608
+01:04:51.110 --> 01:05:05.310
+Rafael Zuquim: Então talvez não funcione. Bem, eu tentei tirar uma. Então é nada mesmo? É a última pergunta. E na sua opinião, qual é a importância da paixão pela arte no seu trabalho com figurino.
+
+609
+01:05:06.210 --> 01:05:13.160
+Acrides: Acho que toda a gente só trabalha com arte porque a gente acredita no que a gente está fazendo
+
+610
+01:05:13.320 --> 01:05:15.610
+Acrides: e porque a gente não consegue viver sem.
+
+611
+01:05:16.520 --> 01:05:19.960
+Acrides: E aí, assim como eu falei,
+
+612
+01:05:20.360 --> 01:05:37.610
+Acrides: é algo que, quando eu trabalhava com outra coisa, fazia falta. E é um sentimento muito doido, porque você não consegue explicar para uma pessoa que tá, tipo, sei lá, pros meus pais. Eles não entendem isso de forma alguma. Porque é uma pessoa que não tem essa vivência.
+
+613
+01:05:37.930 --> 01:05:46.630
+Acrides: Mas se eu converso com qualquer amigo que também é da arte. A pessoa entende completamente o que eu sinto. O sentimento de falta
+
+614
+01:05:47.640 --> 01:05:53.150
+Acrides: de uma coisa que não é palpável. Sabe, acho que
+
+615
+01:05:53.720 --> 01:06:06.140
+Acrides: é o amor. Mesmo por aquilo que você faz. E por acreditar tanto naquilo, você continua querendo impactar mais pessoas com aquilo. Não é pelo trabalho em si, mas pelo impacto que ele vai gerar.
+
+616
+01:06:06.330 --> 01:06:14.179
+Acrides: E acho que se a pessoa não faz por isso, ela tá fazendo alguma coisa errada. Tipo, se ela não tá pensando em como
+
+617
+01:06:14.460 --> 01:06:25.250
+Acrides: aquilo que ela está fazendo, vai impactar outra pessoa. Por exemplo, o figurino como o figurino vai contar a história e contribuir para a história que está sendo contada.
+
+618
+01:06:25.520 --> 01:06:40.880
+Acrides: Ela está fazendo alguma coisa de errada, porque esse é o intuito. Assim, se ela está fazendo só por fazer o que acontece muitas vezes, não é uma linha linear que você sempre faz com amor. Às vezes você faz pelo dinheiro. Às vezes você faz
+
+619
+01:06:40.900 --> 01:06:46.349
+Acrides: porque tem que fazer. Às vezes você faz por ódio de ter que entregar aquilo.
+
+620
+01:06:46.490 --> 01:06:52.009
+Acrides: Mas quando você entrega um trabalho que você acredita que você gosta,
+
+621
+01:06:52.360 --> 01:06:56.220
+Acrides: todo o resto se justifica. Assim. Sabe, é.
+
+622
+01:06:56.330 --> 01:07:13.299
+Acrides: É muito legal sentir isso, mesmo que seja só no dia da estreia. E depois vendo as fotos. E durante todo o processo, seja uma loucura. Mas, por exemplo, agora que a gente está trabalhando no ateliê lá, e tem os desenhos na parede.
+
+623
+01:07:13.470 --> 01:07:21.290
+Acrides: Às vezes eu me pego olhando e pensando, caralho, isso saiu da minha cabeça e vai ficar lindo demais.
+
+624
+01:07:21.290 --> 01:07:22.679
+Rafael Zuquim: Ai! Que legal!
+
+625
+01:07:22.680 --> 01:07:23.390
+Acrides: É o
+
+626
+01:07:23.520 --> 01:07:30.299
+Acrides: uma mistura de muitos sentimentos. E acho que arte é isso é sentimento muito mais que outra coisa.
+
+627
+01:07:30.570 --> 01:07:33.379
+Acrides: É sentimento, para além de tudo.
+
+628
+01:07:34.510 --> 01:07:37.140
+Rafael Zuquim: Cris, muito obrigado pela entrevista. Pelo seu tempo.
+
+629
+01:07:37.140 --> 01:07:38.140
+Acrides: Nada.
+
+630
+01:07:38.480 --> 01:07:43.949
+Rafael Zuquim: Vou parar a gravação aqui. Tem alguma coisa que você gostaria de falar que eu não perguntei
+
+631
+01:07:44.100 --> 01:07:47.579
+Rafael Zuquim: sobre esse tema. Então tá ótimo.
+
+632
+01:07:47.580 --> 01:07:49.330
+Acrides: Acho que eu falei bastante para gravação.
+
+633
+01:07:49.330 --> 01:07:54.810
+Rafael Zuquim: É? Formou uma hora. Estamos aqui, pai.
+
