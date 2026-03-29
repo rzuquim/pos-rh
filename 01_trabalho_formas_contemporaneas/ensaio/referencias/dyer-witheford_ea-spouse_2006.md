@@ -129,3 +129,10 @@ that contract that they’ll promise anything . . . ”
 
 “it is often true that the ship date is impossible to delay without catastrophic consequences like cancellation or even
 bankruptcy”
+
+Passion to make a good product, team solidarity, and social glamour are all part of the allure of game labour. But these
+also produce a hard-driving, largely internalized work ethic intensely beneficial to the employer’s bottom line. To this
+is added the “concept of ownership,” actively deployed by some studios:
+
+Youthful enthusiasm, home-away-from-home workplaces, stock options, the risks of leaving, macho bravado, and a cool
+corporate culture—these are among the softly coercive elements of video game companies’ culture of extreme work.

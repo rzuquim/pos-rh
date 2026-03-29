@@ -260,6 +260,6 @@ precarização das condições de trabalho na produção de jogos seja aceita e 
   - [ ] falar de empresas BR que possuem contratos com gringos
 
 - [ ] Luta por trabalho digno
-  - [ ] Falar da EA-Spouse
-  - [ ] Discutir organizações de classe
+  - [x] Falar da EA-Spouse
+  - [x] Discutir organizações de classe
   - [ ] Falar sobre estúdio do Xalavier Nelson Jr.
