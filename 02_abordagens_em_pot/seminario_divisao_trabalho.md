@@ -2,44 +2,56 @@
 
 **Título**: O amor à arte sustenta a precarização do trabalho de figurinista?
 
-## CONTEXTUALIZAR O TEMA - **Noemi**
+## CONTEXTUALIZAR O TEMA - **Rafael**
 
-- definir a importância econômica do setor audio-visual _(teatro/cinema/publicidade)_
-- definir a importância da função no setor audio-visual _(teatro/cinema/publicidade)_
-- definir o trabalho do figurinista dentro do setor \*_(quais as funções?)_
-- buscar números e o perfil demográfico dos figurinista _(quem são essas pessoas?)_
-- explicar como funciona a remuneração desses profissionais (CLT, MEI, PJ?)
+- [ ] definir a importância econômica do setor audio-visual (teatro/cinema/publicidade)
+- [ ] definir a importância da função no setor audio-visual (teatro/cinema/publicidade)
+- [ ] definir o trabalho do figurinista dentro do setor (quais as funções?)
+- [ ] buscar números e o perfil demográfico dos figurinista (quem são essas pessoas?)
+- [ ] explicar como funciona a remuneração desses profissionais (CLT, MEI, PJ?)
 
-## INTRODUZIR A TEMÁTICA - **Noemi**
+## INTRODUZIR A TEMÁTICA - **Ligiane**
 
-O ideal de “amor à arte” influencia a aceitação de condições precárias de trabalho na cena cultural?
+- [ ] O ideal de “amor à arte” influencia a aceitação de condições precárias de trabalho na cena cultural?
 
 ## PERSPECTIVAS HISTÓRICAS - **Ligiane**
 
-- Brevemente responder:
-  - Como o teatro/cinema evoluiu no mundo moderno? Como ganhavam, quais direitos desses profissionais?
-  - Como o teatro/cinema evoluiu no Brasil? Como ganhavam, quais direitos desses profissionais no passado?
-- Pesquisar a evolução das leis trabalhistas para artistas: Como surgiu o registro profissional (DRT)
-- Verificar se existe relação da Lei Rouanet com uma possível forma de remuneração desses profissionais
+- [ ] Brevemente responder:
+  - [ ] Como o teatro/cinema evoluiu no mundo moderno? Como ganhavam, quais direitos desses profissionais?
+  - [ ] Como o teatro/cinema evoluiu no Brasil? Como ganhavam, quais direitos desses profissionais no passado?
+- [ ] Pesquisar a evolução das leis trabalhistas para artistas: Como surgiu o registro profissional (DRT)
+- [ ] Verificar se existe relação da Lei Rouanet com uma possível forma de remuneração desses profissionais
 
 ## CONTEXTO ATUAL - **Ligiane**
 
-- Mapear a "Pejotização" (MEI/PJ): Buscar dados sobre como a maioria dos contratos atuais exige Pessoa Jurídica
-- Levantar o histórico do modelo de produção: teatro musical no Brasil passou de produções menores para o "padrão
-  Broadway" (franquias) e como isso alterou a exigência física e contratual
+- [ ] Mapear a "Pejotização" (MEI/PJ): Buscar dados sobre como a maioria dos contratos atuais exige Pessoa Jurídica
+- [ ] Levantar o histórico do modelo de produção: teatro musical no Brasil passou de produções menores para o "padrão
+      Broadway" (franquias) e como isso alterou a exigência física e contratual
 
-## PONTOS CHAVES RELEVANTES - Adriana
+## PONTOS CHAVES RELEVANTES - Patrícia
 
-- descrever a "Uberização" da arte: analisar a instabilidade psíquica de pessoas que vivem de "job em job" (não
-  necessariamente só na arte, acho que deve ser parecido)
-- pressão psíquica de falta de apoio financeiro, especialmente no cenário pandêmico e pós-pandemia
-- verificar possível auto-exploração (Byung-Chul Han em "A Sociedade do Cansaço"), onde o próprio trabalhador aceita o
-  abuso porque sente que está realizando um "sonho"
+- [ ] descrever a "Uberização" da arte: analisar a instabilidade psíquica de pessoas que vivem de "job em job" (não
+      necessariamente só na arte, acho que deve ser parecido)
+- [ ] pressão psíquica de falta de apoio financeiro, especialmente no cenário pandêmico e pós-pandemia
+- [ ] verificar possível auto-exploração (Byung-Chul Han em "A Sociedade do Cansaço"), onde o próprio trabalhador aceita
+      o abuso porque sente que está realizando um "sonho"
 
 ## APRESENTAR O “CASE” - **Patrícia e Rafael**
 
-- apresentar resultado do questionário `sócio-demográfico`
-- apresentar resultado das entrevistas
+- [ ] apresentar resultado do questionário `sócio-demográfico`
+
+### Acrides
+
+Idade: 27  
+Gênero: Masculino  
+Mora em: São Paulo  
+Natural de: Osório  
+Formado em publicidade: Técnico em Tetro Musical  
+Pós em Escrita Criativa Moradia Alugado, dividindo com amigo Ajuda os pais as vezes  
+Trabalha mais com : Teatro Musical  
+Atua na área de figurino desde: 16 anos (10 anos)
+
+- [ ] apresentar resultado das entrevistas
 
 ## APRESENTAR IDEIAS
 
