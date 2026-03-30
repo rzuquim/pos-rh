@@ -2,24 +2,25 @@
 
 **Título**: O amor à arte sustenta a precarização do trabalho de figurinista?
 
-## CONTEXTUALIZAR O TEMA - **Rafael**
+## CONTEXTUALIZAR O TEMA - \**Rafael*a
 
-- [ ] definir a importância econômica do setor audio-visual (teatro/cinema/publicidade)
-- [ ] definir a importância da função no setor audio-visual (teatro/cinema/publicidade)
-- [ ] definir o trabalho do figurinista dentro do setor (quais as funções?)
-- [ ] buscar números e o perfil demográfico dos figurinista (quem são essas pessoas?)
-- [ ] explicar como funciona a remuneração desses profissionais (CLT, MEI, PJ?)
+- [x] definir a importância econômica do setor criativo (teatro/cinema/publicidade)
+- [x] definir a importância da função no setor criativo (teatro/cinema/publicidade)
+- [x] buscar números e o perfil demográfico dos figurinista (quem são essas pessoas?)
 
 ## INTRODUZIR A TEMÁTICA - **Ligiane**
 
-- [ ] O ideal de “amor à arte” influencia a aceitação de condições precárias de trabalho na cena cultural?
+- [x] O ideal de “amor à arte” influencia a aceitação de condições precárias de trabalho na cena cultural?
+
+- [x] definir o trabalho do figurinista dentro do setor (quais as funções?)
+- [x] explicar como funciona a remuneração desses profissionais (CLT, MEI, PJ?)
 
 ## PERSPECTIVAS HISTÓRICAS - **Ligiane**
 
 - [ ] Brevemente responder:
-  - [ ] Como o teatro/cinema evoluiu no mundo moderno? Como ganhavam, quais direitos desses profissionais?
-  - [ ] Como o teatro/cinema evoluiu no Brasil? Como ganhavam, quais direitos desses profissionais no passado?
-- [ ] Pesquisar a evolução das leis trabalhistas para artistas: Como surgiu o registro profissional (DRT)
+  - [x] Como o teatro/cinema evoluiu no mundo moderno? Como ganhavam, quais direitos desses profissionais?
+  - [x] Como o teatro/cinema evoluiu no Brasil? Como ganhavam, quais direitos desses profissionais no passado?
+- [x] Pesquisar a evolução das leis trabalhistas para artistas: Como surgiu o registro profissional (DRT)
 - [ ] Verificar se existe relação da Lei Rouanet com uma possível forma de remuneração desses profissionais
 
 ## CONTEXTO ATUAL - **Ligiane**
@@ -66,3 +67,10 @@ Atua na área de figurino desde: 16 anos (10 anos)
   - Ricardo Antunes – precarização e uberização
   - Byung-Chul Han – autoexploração e sociedade do desempenho
 - Buscar mapear relacionamentos com textos dados em aula
+
+(i) suposições de que trabalhadores apaixonados teriam se voluntariado para esse trabalho se tivessem a oportunidade
+(Estudos 1, 3, 5, 6 e 8) e (ii) crenças de que, para trabalhadores apaixonados, o próprio trabalho é sua própria
+recompensa (Estudos 3, 4, 5, 6 e 8). Também encontramos evidências para a direção inversa do processo de legitimação, na
+qual as pessoas atribuem paixão a um trabalhador explorado (vs. não explorado) (Estudo 7). Por fim, e de forma
+consistente com a noção de que esse processo está ligado a motivações de justiça, um teste de mediação moderada mostra
+que esse efeito é mais pronunciado entre participantes com forte crença em um mundo justo (Estudo 8).

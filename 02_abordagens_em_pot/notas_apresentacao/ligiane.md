@@ -24,17 +24,6 @@ arte” contribui para sustentar e legitimar a precarização das relações de 
 
 ## Perspectivas históricas
 
-### Evolução do teatro e do cinema no mundo moderno
-
-No mundo moderno, o teatro e o cinema passaram por um processo gradual de profissionalização. No teatro europeu,
-principalmente a partir do século XIX, surgem companhias estáveis, temporadas regulares e uma divisão mais clara das
-funções artísticas e técnicas, como direção, atuação, cenografia e figurino.
-
-O cinema, desde o início do século XX, nasce fortemente ligado à lógica industrial, especialmente em Hollywood, com
-grandes estúdios organizando o trabalho de forma hierarquizada e contínua. Apesar dessa organização, o trabalho
-artístico manteve uma forte dimensão simbólica ligada à vocação, o que contribuiu para a naturalização de jornadas
-longas e salários instáveis, principalmente para profissionais técnicos e criativos.
-
 ### Formas de remuneração e direitos no passado (mundo)
 
 Historicamente, muitos artistas e técnicos não possuíam contratos formais. A remuneração costumava ser feita por

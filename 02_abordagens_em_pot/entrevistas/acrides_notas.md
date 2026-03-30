@@ -61,19 +61,7 @@
 > Acrides: Então acho que isso que acaba nos dando força para continuar, mesmo sendo tão difícil e tão insalubre muitas
 > vezes.
 
-> 01:05:06.210 --> 01:05:13.160  
-> Acrides: Acho que toda a gente só trabalha com arte porque a gente acredita no que a gente está fazendo  
-> Acrides: e porque a gente não consegue viver sem. Acrides: Mas se eu converso com qualquer amigo que também é da arte.
-> A pessoa entende completamente o que eu sinto. O sentimento de falta  
-> Acrides: de uma coisa que não é palpável. Sabe, acho que  
-> Acrides: é o amor. Mesmo por aquilo que você faz. E por acreditar tanto naquilo, você continua querendo impactar mais
-> pessoas com aquilo. Não é pelo trabalho em si, mas pelo impacto que ele vai gerar. Acrides: E acho que se a pessoa não
-> faz por isso, ela tá fazendo alguma coisa errada. Tipo, se ela não tá pensando em como  
-> Acrides: aquilo que ela está fazendo, vai impactar outra pessoa. Por exemplo, o figurino como o figurino vai contar a
-> história e contribuir para a história que está sendo contada.  
-> Acrides: Ela está fazendo alguma coisa de errada, porque esse é o intuito. Assim, se ela está fazendo só por fazer o
-> que acontece muitas vezes, não é uma linha linear que você sempre faz com amor. Às vezes você faz pelo dinheiro. Às
-> vezes você faz
+> 01:05:06.210 --> 01:05:13.160
 
 01:06:40.900 --> 01:06:46.349
 
@@ -108,7 +96,7 @@
 > Acrides: Tô na loucura da entrega do Shrek. Agora que entrega, daqui a duas semanas.
 
 > 00:06:29.620 --> 00:06:38.199  
-> Acrides: O olho está piscando sozinho do corpo, mas a gente está aqui.
+> Acrides:
 
 > 00:27:46.260 --> 00:27:48.589  
 > Acrides: E isso causa muito estresse.
@@ -143,9 +131,6 @@
 > ou de outro.
 
 # necessidade
-
-> 00:28:09.550 --> 00:28:13.860  
-> Acrides: Aí. Você está sem trabalho e você aceita uma bomba dessa.
 
 > Acrides: Eu tive, tipo, duas semanas, sem trabalho, que é, tipo, muito uma exceção, porque as pessoas normalmente
 > ficam períodos inteiros. Tipo, agora, depois do Shrek, eu não tenho trabalho ainda. Então eu estou começando a ficar
@@ -394,24 +379,6 @@ jogar pro público e ver o que volta
 > 00:25:39.810 --> 00:25:49.959  
 > Acrides: é uma área que não é regulamentada e as pessoas não veem uma necessidade de regulamentação, tanto pessoas que
 > trabalham no figurino
-
-> 00:25:50.290 --> 00:25:59.690  
-> Acrides: quanto às produtoras, não existe uma preocupação em regulamentar. O pessoal do figurino não é regulamentar a
-> palavra, mas, tipo
-
-> 00:31:08.520 --> 00:31:20.059  
-> Acrides: Normalmente não tem contrato, né? A gente só trabalha pela palavra das pessoas. E se o dinheiro está caindo
-> na conta. A gente continua trabalhando. Se não cai, a gente diz assim: Gente, não vou fazer.
-
-> 00:33:06.300 --> 00:33:12.520  
-> Acrides: E aí ele foi cancelado. E eu só agradeci por ter recebido uma parcela. Pelo menos
-
-> 00:33:12.680 --> 00:33:17.010  
-> Acrides: é. Mas foi difícil porque ninguém do elenco recebeu. Tava, tipo, todo mundo. Já.
-
-> 00:33:36.970 --> 00:33:52.769  
-> Acrides: teatro de goma. Foi cancelado e todo mundo teve que seguir sua vida porque, tipo, a produtora. Meio que se
-> virem assim. Sabe, eu tinha recebido uma parcela, pelo menos de três. Tinha recebido pelo mês que eu tinha trabalhado,
 
 # Remuneração
 
