@@ -19,5 +19,3 @@ Degradação das condições de trabalho => empreender
 
 - [gdrive](https://drive.google.com/drive/mobile/folders/1o7f8qm_j5L-Ovp5Bw2Z7X5XPJimZegnj?pli=1)
 
-
-
