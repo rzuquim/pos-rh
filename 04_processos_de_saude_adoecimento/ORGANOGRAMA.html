@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Organograma da Empresa</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+      }
+      .container {
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 8px;
+        width: 90%;
+        max-width: 1200px;
+      }
+      h1,
+      h2 {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Organogramas</h1>
+
+    <div class="container">
+      <h2>Antes do Layoff</h2>
+      <pre class="mermaid">
+            graph TD;
+                Dono --> Diretor_Cunhado[Diretor (Cunhado)];
+                
+                Diretor_Cunhado --> Financeiro["Financeiro (H)"];
+                Diretor_Cunhado --> Comercial["Comercial (H)"];
+                Diretor_Cunhado --> Medicina_Recepcao["Medicina e Recepção (M)"];
+                Diretor_Cunhado --> TI_Qualidade["TI e Qualidade (H)"];
+                
+                Diretor_Cunhado --> Administrativo;
+                Administrativo --> Gestor_CS["Gestor (H) - Customer Success"];
+                Administrativo --> Gestora_Dados["Gestora (M) - Dados/Agendamento"];
+                
+                Diretor_Cunhado --> Seg_Trabalho["Seg. do Trabalho e Eng. (M)"];
+                Seg_Trabalho --> Tecnicos_Internos["Técnicos Internos (8)"];
+                Tecnicos_Internos --> Docs["Documentação (4, incl. Natália)"];
+                Tecnicos_Internos --> Treinamento["Treinamentos (2)"];
+                
+                Seg_Trabalho --> Tecnicos_Externos["Técnicos Externos (2)"];
+        </pre
+      >
+    </div>
+
+    <div class="container">
+      <h2>Depois do Layoff</h2>
+      <pre class="mermaid">
+            graph TD;
+                subgraph Sócios
+                    Dono["Dono (Comercial)"];
+                    Cunhado["Cunhado (Operacional)"];
+                    Sequestrador["'Sequestrador' (Financeiro)"];
+                end
+
+                Sócios --> TI_Nat["TI (Natália)"];
+                Sócios --> Medicina_Recepcao["Medicina e Recepção (M)"];
+                Sócios --> Administrativo["Administrativo (Gestor CS)"];
+                Sócios --> Seg_Trabalho["Seg. do Trabalho e Eng. (M)"];
+
+                Seg_Trabalho --> Tecnicos_Internos["Técnicos Internos (5)"];
+                Tecnicos_Internos --> Docs["Documentação (2)"];
+                Tecnicos_Internos --> Treinamento["Treinamento (1)"];
+                Seg_Trabalho --> Tecnicos_Externos["Técnicos Externos (2)"];
+        </pre
+      >
+    </div>
+
+    <script type="module">
+      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+      mermaid.initialize({ startOnLoad: true });
+    </script>
+  </body>
+</html>

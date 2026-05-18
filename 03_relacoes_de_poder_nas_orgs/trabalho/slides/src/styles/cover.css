@@ -1,0 +1,44 @@
+.reveal section.cover {
+  justify-content: center;
+
+  .dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    background: var(--muted);
+  }
+
+  .content {
+    flex-grow: 0;
+
+    .subtitle {
+      font-size: var(--subtitle-font-size);
+      font-weight: 600;
+      margin-top: var(--spacing-md);
+
+      p {
+        font-size: var(--body-font-size);
+        margin-top: var(--spacing-sm);
+        font-weight: normal;
+        opacity: var(--text-muted);
+        color: var(--r-heading-color);
+      }
+    }
+
+    .students {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--spacing-sm);
+      font-size: var(--body-font-size);
+      margin: var(--spacing-sm);
+    }
+  }
+
+  .footer {
+    justify-content: center;
+    flex-direction: column;
+  }
+}
