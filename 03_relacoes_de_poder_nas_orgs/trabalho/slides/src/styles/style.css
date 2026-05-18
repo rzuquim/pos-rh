@@ -1,9 +1,10 @@
 :root {
-  --accent: #4fd1c5;
-  --warning: #f6ad55;
-  --danger: #fc8181;
+  --red: #fc8181;
+  --green: #4fd1c5;
+  --blue: #0ea5e9;
+  --orange: #f6ad55;
+  --yellow: #f6e05e;
   --muted: #a0aec0;
-  --highlight: #f6e05e;
 
   --title-font-size: 3.5rem;
   --subtitle-font-size: 2.5rem;
@@ -71,29 +72,25 @@
 
       .dot {
         position: absolute;
-      }
 
-      .dot:nth-child(1) {
-        background-color: var(--danger);
-        top: 0;
-        left: 0;
-      }
+        &.dot-red {
+          top: 0;
+          left: 0;
+        }
 
-      .dot:nth-child(2) {
-        background-color: var(--accent);
-        top: 0;
-        left: 12px;
-      }
-      .dot:nth-child(3) {
-        background-color: var(--warning);
-        top: 12px;
-        left: 0;
-      }
+        &.dot-green {
+          top: 0;
+          left: 12px;
+        }
+        &.dot-blue {
+          top: 12px;
+          left: 0;
+        }
 
-      .dot:nth-child(4) {
-        background-color: var(--highlight);
-        top: 12px;
-        left: 12px;
+        &.dot-yellow {
+          top: 12px;
+          left: 12px;
+        }
       }
     }
 
@@ -123,6 +120,22 @@
 
     opacity: 0.9;
     mix-blend-mode: multiply;
+  }
+
+  .dot-red {
+    fill: var(--red);
+  }
+
+  .dot-green {
+    fill: var(--green);
+  }
+
+  .dot-blue {
+    fill: var(--blue);
+  }
+
+  .dot-yellow {
+    fill: var(--yellow);
   }
 
   .title {
