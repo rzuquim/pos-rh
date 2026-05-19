@@ -83,7 +83,8 @@ Depois do Layoff o Dono começou a fazer churrascos para os funcionários como f
     - Comercial (H)
     - Medicina e Recepção (M)
     - TI e Qualidade (H)
-    - Administrativo (2 gestores) - H: Costumer Success; M (sofria gordofobia): Dados(e-Social), Agendamento
+    - Administrativo (2 gestores)
+      - H: Costumer Success; M (sofria gordofobia): Dados(e-Social), Agendamento
     - Seg. do Trabalho e Eng. - M
       - Técnico Interno (8 pessoas): treinamentos, documentação, acompanhamento de perícias
         - 4 docs (Nat aqui e ela era a única que fazia acompanhamento de perícia sem bônus financeiro)
