@@ -145,4 +145,23 @@
     margin-bottom: var(--spacing-md);
     color: var(--r-link-color-dark);
   }
+
+  .title-underline {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: var(--yellow);
+    transform-origin: right center; /* ensure left-to-right drawing */
+    transform: scaleX(0); /* starts underline with 0 size */
+  }
+}
+
+svg {
+  /** NOTE: 
+   * make sure the shape can escape the svg box.
+   * the svg position will be animated by reveal.js and the shape using gsap
+   * */
+  overflow: visible;
 }

@@ -1,4 +1,4 @@
-.reveal section.cover {
+.reveal section#cover {
   justify-content: center;
 
   .dot {
