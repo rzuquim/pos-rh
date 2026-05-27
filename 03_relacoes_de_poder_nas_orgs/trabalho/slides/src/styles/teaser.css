@@ -5,10 +5,16 @@
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
 
   .media {
     width: auto;
     height: 15rem;
+  }
+
+  .media:nth-child(n + 4) {
+    height: 8rem;
   }
 
   .kidnapper {

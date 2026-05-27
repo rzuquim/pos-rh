@@ -14,6 +14,7 @@ import "./morph.ts";
 import Reveal from "reveal.js";
 import Markdown from "reveal.js/plugin/markdown";
 import { subMorphShapes } from "./morph.ts";
+import { loadSlidesIntoDOM } from "./util/slides.ts";
 
 export type TweenStep = {
   duration: number;
@@ -26,20 +27,7 @@ function startSlideShow(slidesDOM: HTMLElement | null) {
     return;
   }
 
-  let slideModules = import.meta.glob("../slides/*.html", {
-    query: "?raw",
-    import: "default",
-    eager: true,
-  });
-
-  let sortedSlidePaths = Object.keys(slideModules).sort();
-
-  let allSlidesHTML = "";
-  for (const path of sortedSlidePaths) {
-    allSlidesHTML += slideModules[path] as string;
-  }
-
-  slidesDOM.innerHTML = allSlidesHTML;
+  loadSlidesIntoDOM(slidesDOM);
 
   let deck = new Reveal({
     plugins: [Markdown],
