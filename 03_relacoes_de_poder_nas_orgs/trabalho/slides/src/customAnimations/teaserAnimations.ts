@@ -6,7 +6,7 @@ import { travelDistance, toSvgUnits } from "../util";
 
 export default function () {
   declareCustomAnimations({
-    slideId: "intro",
+    slideId: "teaser",
     duration: DURATION,
     apply(shape, _, document, reveal) {
       if (shape.id != "dot4") {
@@ -14,7 +14,7 @@ export default function () {
       }
 
       let underline = document.querySelector(".title-underline") as HTMLElement;
-      let header = document.querySelector("#intro .header") as HTMLElement;
+      let header = document.querySelector("#teaser .header") as HTMLElement;
 
       if (!underline || !header) {
         throw "Could not find underline or slidesBound";
@@ -81,4 +81,4 @@ function animateUnderline(underline: Element, tl: gsap.core.Timeline, step: Twee
   tl.fromTo(underline, { scaleX: 0 }, { scaleX: 1, duration: step.duration, ease: "power2.inOut" }, step.startAt);
 }
 
-const DURATION = 3;
+const DURATION = 1.5;

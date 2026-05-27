@@ -11,6 +11,7 @@
 
   .content {
     flex-grow: 0;
+    justify-content: center;
 
     .subtitle {
       font-size: var(--subtitle-font-size);

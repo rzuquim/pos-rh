@@ -1,0 +1,27 @@
+.teaser {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  .media {
+    width: auto;
+    height: 15rem;
+  }
+
+  .kidnapper {
+    img {
+      transform: scale(1.1);
+      object-position: 15% 0%;
+    }
+  }
+
+  .snake {
+    img {
+      transform: scale(1.1);
+      object-position: 63% 0%;
+    }
+  }
+}

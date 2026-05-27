@@ -1,6 +1,6 @@
 import type { RevealApi } from "reveal.js";
 import type { ShapePair } from "../morph";
-import intro from "./introAnimations";
+import teaser from "./teaserAnimations";
 
 let customAnimations: { [slideId: string]: CustomAnimations } = {};
 
@@ -18,4 +18,4 @@ export type CustomAnimations = {
   apply(currShape: ShapePair, allShapes: ShapePair[], document: HTMLDocument, reveal: RevealApi): boolean;
 };
 
-intro();
+teaser();

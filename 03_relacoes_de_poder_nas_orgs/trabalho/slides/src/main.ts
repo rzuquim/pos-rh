@@ -7,6 +7,7 @@ import "reveal.js/theme/black.css";
 
 import "./styles/style.css";
 import "./styles/cover.css";
+import "./styles/teaser.css";
 
 import "./morph.ts";
 
@@ -42,6 +43,7 @@ function startSlideShow(slidesDOM: HTMLElement | null) {
 
   let deck = new Reveal({
     plugins: [Markdown],
+    controls: false,
   });
 
   gsap.registerPlugin(MorphSVGPlugin);
