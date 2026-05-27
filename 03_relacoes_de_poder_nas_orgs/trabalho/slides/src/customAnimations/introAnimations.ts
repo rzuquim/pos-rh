@@ -2,25 +2,45 @@ import gsap from "gsap";
 import { declareCustomAnimations } from ".";
 import type { ShapePair } from "../morph";
 import type { TweenStep } from "../main";
+import { travelDistance, toSvgUnits } from "../util";
 
 export default function () {
   declareCustomAnimations({
     slideId: "intro",
     duration: DURATION,
-    apply(shape, _, document) {
+    apply(shape, _, document, reveal) {
       if (shape.id != "dot4") {
         return false;
       }
 
+      let underline = document.querySelector(".title-underline") as HTMLElement;
+      let header = document.querySelector("#intro .header") as HTMLElement;
+
+      if (!underline || !header) {
+        throw "Could not find underline or slidesBound";
+      }
+      gsap.killTweensOf(underline);
+
       let tl = gsap.timeline();
 
-      let moveToRight = 0.33 * DURATION;
-      let bringBackAndUnderline = 0.67 * DURATION;
+      // NOTE: animation phases
+      let moveToRight = 0.33;
+      let sitStill = 0.1;
+      let bringBackAndUnderline = 1 - moveToRight - sitStill;
+
+      let [headerElementEdgePx] = travelDistance(reveal, shape.curr, [header, "BOTTOM_RIGHT"]);
+      let headerElementeEdgeSvgUnits = toSvgUnits(headerElementEdgePx, shape.currSvgEl);
 
       transformShape(shape, tl, DURATION);
-      moveToFarRight(shape, tl, { duration: moveToRight });
-      bringBackToTitle(shape, tl, { duration: bringBackAndUnderline, startAt: moveToRight });
-      animateUnderline(document, tl, { duration: bringBackAndUnderline, startAt: moveToRight });
+      moveToHeaderRightEdge(shape, headerElementeEdgeSvgUnits, tl, { duration: moveToRight * DURATION });
+      bringBackToTitle(shape, tl, {
+        duration: bringBackAndUnderline * DURATION,
+        startAt: (moveToRight + sitStill) * DURATION,
+      });
+      animateUnderline(underline, tl, {
+        duration: bringBackAndUnderline * DURATION,
+        startAt: moveToRight * DURATION + 0.3,
+      });
 
       tl.play();
 
@@ -41,15 +61,15 @@ function transformShape({ curr, prev }: ShapePair, tl: gsap.core.Timeline, durat
   );
 }
 
-function moveToFarRight(shape: ShapePair, tl: gsap.core.Timeline, step: TweenStep) {
-  tl.fromTo(shape.curr, { x: 0 }, { x: 400, duration: step.duration, ease: "power2.out" }, 0);
+function moveToHeaderRightEdge(shape: ShapePair, underlineRightEdge: number, tl: gsap.core.Timeline, step: TweenStep) {
+  tl.to(shape.curr, { x: underlineRightEdge, duration: step.duration, ease: "power2.out" }, 0);
 }
 
 function bringBackToTitle(shape: ShapePair, tl: gsap.core.Timeline, step: TweenStep) {
   tl.to(
     shape.curr,
     {
-      x: 50,
+      x: 0,
       duration: step.duration,
       ease: "power2.inOut",
     },
@@ -57,14 +77,8 @@ function bringBackToTitle(shape: ShapePair, tl: gsap.core.Timeline, step: TweenS
   );
 }
 
-function animateUnderline(document: HTMLDocument, tl: gsap.core.Timeline, step: TweenStep) {
-  let underline = document.querySelector(".title-underline");
-  if (!underline) {
-    return;
-  }
-
-  gsap.killTweensOf(underline);
+function animateUnderline(underline: Element, tl: gsap.core.Timeline, step: TweenStep) {
   tl.fromTo(underline, { scaleX: 0 }, { scaleX: 1, duration: step.duration, ease: "power2.inOut" }, step.startAt);
 }
 
-const DURATION = 1.5;
+const DURATION = 3;

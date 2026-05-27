@@ -19,7 +19,7 @@ export function subMorphShapes(deck: RevealApi) {
 
       let duration = customAnimations?.duration || DEFAULT_DURATION;
 
-      if (customAnimations?.apply(shapes, shapePairs, document)) {
+      if (customAnimations?.apply(shapes, shapePairs, document, deck)) {
         console.log(`Custom animation applied in slide:`, shapes);
       } else {
         console.log(`Default animation applied in slide:`, shapes);
@@ -56,16 +56,35 @@ function mapByIds(prevSlide: HTMLElement, currSlide: HTMLElement): ShapePair[] {
       console.error("Could not find .shape on one of the SVGs", currSvg, prevSvg);
       throw "Could not find .shape on one of the SVGs";
     }
-    pairs.push({ id: dataId, prev: prevShape, curr: currShape });
+    pairs.push({
+      id: dataId,
+      prev: prevShape,
+      curr: currShape,
+      currSvgEl: currSvg as SVGSVGElement,
+      prevSvgEl: prevSvg as SVGSVGElement,
+    });
   });
 
   return pairs;
 }
 
 export type ShapePair = {
+  // The shared data-id used to match the starting and ending elements across Reveal.js slides
   id: string;
+
+  // --- THE ART (Target for Morphing) ---
+  // We store the inner shapes specifically to feed into GSAP's morphSVG plugin.
+  // CRUCIAL: Do NOT animate x/y on these! Doing so triggers the "ViewBox Trap",
+  // where GSAP calculates movement in internal SVG units instead of actual screen pixels.
   prev: SVGPathElement;
   curr: SVGPathElement;
+
+  // --- THE CONTAINER (Target for Movement) ---
+  // We store the outer <svg> wrappers to handle physical layout animations (x, y, scale).
+  // Because these wrappers exist in the standard DOM layout space, animating them
+  // guarantees our pixel calculations (like distance formulas) remain 1:1 with CSS screen pixels.
+  currSvgEl: SVGSVGElement;
+  prevSvgEl: SVGSVGElement;
 };
 
 type SlideChangedEvent = {
