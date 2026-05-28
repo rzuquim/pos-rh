@@ -243,6 +243,7 @@
     text-align: right;
     line-height: 1;
 
+    padding-right: var(--spacing-lg);
     margin-top: var(--spacing-md);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 

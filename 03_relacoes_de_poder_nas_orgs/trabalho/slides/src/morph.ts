@@ -14,7 +14,7 @@ export function subMorphShapes(deck: RevealApi) {
     let shapePairs = mapByIds(previousSlide, currentSlide);
     let customAnimations = getCustomAnimations(currentSlide.id);
 
-    if (customAnimations.globalApply) {
+    if (customAnimations?.globalApply) {
       let keepGoing = customAnimations.globalApply(shapePairs, document, deck);
       if (!keepGoing) {
         return;

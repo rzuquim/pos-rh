@@ -1,0 +1,9 @@
+#cunhado {
+  svg.landed path {
+    fill: var(--r-main-color);
+  }
+
+  li {
+    list-style-type: none;
+  }
+}

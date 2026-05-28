@@ -3,6 +3,7 @@ import type { ShapePair } from "../morph";
 import teaser from "./teaserAnimations";
 import nProfile from "./nProfileAnimations";
 import org from "./orgAnimations";
+import spiderman from "./spidermanAnimations";
 
 let customAnimations: { [slideId: string]: CustomAnimations } = {};
 
@@ -24,3 +25,4 @@ export type CustomAnimations = {
 teaser();
 nProfile();
 org();
+spiderman();
