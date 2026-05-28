@@ -12,14 +12,15 @@
   .content {
     flex-grow: 0;
     justify-content: center;
+    gap: var(--spacing-lg);
 
     .subtitle {
-      font-size: var(--subtitle-font-size);
+      font-size: var(--font-size-md);
       font-weight: 600;
       margin-top: var(--spacing-md);
 
       p {
-        font-size: var(--body-font-size);
+        font-size: var(--font-size-lg);
         margin-top: var(--spacing-sm);
         font-weight: normal;
         opacity: var(--text-muted);
@@ -32,7 +33,7 @@
       align-items: center;
       justify-content: center;
       gap: var(--spacing-sm);
-      font-size: var(--body-font-size);
+      font-size: var(--font-size-lg);
       margin: var(--spacing-sm);
     }
   }

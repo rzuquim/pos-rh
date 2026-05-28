@@ -1,6 +1,8 @@
 import type { RevealApi } from "reveal.js";
 import type { ShapePair } from "../morph";
 import teaser from "./teaserAnimations";
+import nProfile from "./nProfileAnimations";
+import org from "./orgAnimations";
 
 let customAnimations: { [slideId: string]: CustomAnimations } = {};
 
@@ -14,8 +16,11 @@ export function getCustomAnimations(slideId: string): CustomAnimations | undefin
 
 export type CustomAnimations = {
   slideId: string;
-  duration: number;
-  apply(currShape: ShapePair, allShapes: ShapePair[], document: HTMLDocument, reveal: RevealApi): boolean;
+  duration?: number;
+  apply(currShape: ShapePair, allShapes: ShapePair[], document: HTMLDocument, reveal: RevealApi, idx: number): boolean;
+  globalApply?(allShapes: ShapePair[], document: HTMLDocument, reveal: RevealApi): boolean;
 };
 
 teaser();
+nProfile();
+org();

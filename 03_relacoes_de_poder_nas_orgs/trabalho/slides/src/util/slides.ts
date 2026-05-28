@@ -12,10 +12,10 @@ export function loadSlidesIntoDOM(container: HTMLElement) {
   var parser = new DOMParser();
   let allSlidesHTML = "";
 
-  for (const path of sortedSlidePaths) {
+  for (let path of sortedSlidePaths) {
     var rawSlideHTML = slideModules[path] as string;
     let doc = parser.parseFromString(rawSlideHTML, "text/html");
-    for (const tagName in partials) {
+    for (let tagName in partials) {
       let partialHTML = partials[tagName];
 
       doc.querySelectorAll(tagName).forEach((el) => {
@@ -37,7 +37,7 @@ function loadPartials(): Record<string, string> {
   });
 
   let partials: Record<string, string> = {};
-  for (const path in partialPaths) {
+  for (let path in partialPaths) {
     let tagName = path.split("/").pop()?.replace(".html", "");
     if (tagName) {
       partials[tagName] = partialPaths[path] as string;

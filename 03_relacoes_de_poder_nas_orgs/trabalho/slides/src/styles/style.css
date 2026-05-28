@@ -6,10 +6,10 @@
   --orange: #f6ad55;
   --muted: #a0aec0;
 
-  --title-font-size: 3.5rem;
-  --body-font-size: 2.5rem;
-  --subtitle-font-size: 2rem;
-  --footer-font-size: 1.5rem;
+  --font-size-title: 3.5rem;
+  --font-size-lg: 2.5rem;
+  --font-size-md: 2rem;
+  --font-size-sm: 1.5rem;
 
   --line-height: 1.1;
 
@@ -63,7 +63,7 @@
 }
 
 .subtitle {
-  font-size: var(--subtitle-font-size);
+  font-size: var(--font-size-md);
 }
 
 .mt-sm {
@@ -171,13 +171,12 @@
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      gap: var(--spacing-lg);
-      margin-top: var(--spacing-lg);
+      margin-top: var(--spacing-md);
     }
 
     .footer {
       color: var(--muted);
-      font-size: var(--footer-font-size);
+      font-size: var(--font-size-sm);
       margin: 0 var(--spacing-sm);
       display: flex;
       justify-content: space-between;
@@ -193,6 +192,7 @@
 
     opacity: 0.9;
     mix-blend-mode: multiply;
+    z-index: 999;
   }
 
   .dot-red {
@@ -212,7 +212,7 @@
   }
 
   .title {
-    font-size: var(--title-font-size);
+    font-size: var(--font-size-title);
     font-weight: bold;
     line-height: var(--line-height);
     margin-bottom: var(--spacing-md);
@@ -226,12 +226,7 @@
     width: 100%;
     height: 3px;
     background-color: var(--yellow);
-    transform-origin: right center; /* ensure left-to-right drawing */
-    transform: scaleX(0); /* starts underline with 0 size */
-
-    &.done {
-      transform: scaleX(1);
-    }
+    transform-origin: right center;
   }
 
   p {
@@ -246,21 +241,38 @@
   .quote-block {
     border-right: 5px solid;
     background-color: rgba(255, 255, 255, 0.03);
-    padding: var(--spacing-md);
+    padding: var(--spacing-sm);
     border-radius: 15px 0 0 15px;
 
-    font-size: var(--footer-font-size);
+    font-size: var(--font-size-md);
     font-style: italic;
     text-align: right;
     line-height: 1;
 
-    margin-top: var(--spacing-lg);
+    margin-top: var(--spacing-md);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 
     &.danger {
       color: var(--danger);
       border-color: var(--danger);
     }
+  }
+
+  ul {
+    font-size: var(--font-size-sm);
+    line-height: 1.3;
+    margin-left: var(--spacing-md);
+  }
+
+  ul li {
+    margin-bottom: var(--spacing-sm);
+  }
+
+  ul ul {
+    margin-top: var(--spacing-sm);
+    margin-left: var(--spacing-md);
+    color: var(--muted);
+    list-style-type: circle;
   }
 }
 

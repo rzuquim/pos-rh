@@ -23,6 +23,7 @@ export default function () {
 
       let tl = gsap.timeline();
 
+      // TODO: TweenStep.durationPercent
       // NOTE: animation phases
       let moveToRight = 0.33;
       let sitStill = 0.1;
@@ -78,7 +79,16 @@ function bringBackToTitle(shape: ShapePair, tl: gsap.core.Timeline, step: TweenS
 }
 
 function animateUnderline(underline: Element, tl: gsap.core.Timeline, step: TweenStep) {
-  tl.fromTo(underline, { scaleX: 0 }, { scaleX: 1, duration: step.duration, ease: "power2.inOut" }, step.startAt);
+  tl.fromTo(
+    underline,
+    { scaleX: 0 },
+    {
+      scaleX: 1,
+      duration: step.duration,
+      ease: "power2.inOut",
+    },
+    step.startAt,
+  );
 }
 
 const DURATION = 1.5;

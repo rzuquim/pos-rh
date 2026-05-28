@@ -9,12 +9,10 @@
   gap: 2rem;
 
   .media {
+    position: relative;
     width: auto;
     height: 15rem;
-  }
-
-  .media:nth-child(n + 4) {
-    height: 8rem;
+    margin-top: var(--spacing-sm);
   }
 
   .kidnapper {
@@ -29,5 +27,63 @@
       transform: scale(1.1);
       object-position: 63% 0%;
     }
+  }
+
+  .suicide {
+    img {
+      transform: scale(1.1);
+      object-position: 68% -7%;
+    }
+  }
+
+  .nepotism {
+    height: 8rem;
+    margin-top: 0;
+  }
+
+  .other {
+    height: 8rem;
+    margin-top: 0;
+  }
+
+  .fragment.blur {
+    filter: blur(10px);
+  }
+
+  .fragment.blur.visible {
+    filter: none;
+  }
+
+  .item {
+    position: relative;
+    p {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+
+      transform: translate(-50%, -50%) rotate(-25deg);
+
+      width: 150%;
+      margin: 0;
+      text-align: center;
+      z-index: 10;
+
+      font-size: var(--font-size-md);
+      font-weight: 900;
+      line-height: 1.1;
+      text-transform: uppercase;
+      color: var(--red);
+
+      text-shadow:
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        0px 5px 10px rgba(0, 0, 0, 0.8);
+    }
+  }
+
+  .title-underline {
+    transform: scaleX(0);
   }
 }

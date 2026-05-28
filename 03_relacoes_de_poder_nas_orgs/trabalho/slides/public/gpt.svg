@@ -1,0 +1,14 @@
+
+<svg id="org-chart" ...>
+  <path class="link" d="..." />
+  <path class="link" d="..." />
+  
+  <g class="node">
+    <rect ... />
+    <text>Dono</text>
+  </g>
+  <g class="node">
+    <rect ... />
+    <text>Diretor</text>
+  </g>
+  </svg>

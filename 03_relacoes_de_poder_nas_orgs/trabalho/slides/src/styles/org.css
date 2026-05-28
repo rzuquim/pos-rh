@@ -1,0 +1,82 @@
+#org {
+  .node-rect {
+    stroke: #000;
+    stroke-width: 3;
+    rx: 20;
+  }
+
+  .node-shadow {
+    fill: #000;
+    rx: 20;
+  }
+
+  .node-text {
+    font-weight: 700;
+    font-size: 1rem;
+    fill: var(--r-selection-color);
+    text-anchor: middle;
+    dominant-baseline: middle;
+  }
+
+  path.link {
+    stroke: var(--blue);
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-dasharray: 8 8;
+    fill: none;
+  }
+
+  .bg-l1 {
+    fill: var(--red);
+  }
+  .bg-l2 {
+    fill: var(--orange);
+  }
+  .bg-l3 {
+    fill: var(--yellow);
+  } /* Mint */
+  .bg-l4 {
+    fill: var(--green);
+  }
+
+  main {
+    position: relative;
+
+    svg#org_chart_svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .profile-pic-grid {
+      position: absolute;
+      left: 28px;
+      top: 393px;
+      z-index: 999;
+
+      svg.dot {
+        opacity: 1;
+      }
+
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      gap: 0;
+      width: 5rem;
+      height: 5rem;
+      flex-shrink: 0;
+
+      border-radius: 50%;
+      overflow: hidden;
+      transform: rotate(-12deg);
+    }
+
+    .profile-pic-grid {
+      .dot {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+      }
+    }
+  }
+}

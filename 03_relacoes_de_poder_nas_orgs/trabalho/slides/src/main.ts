@@ -8,6 +8,8 @@ import "reveal.js/theme/black.css";
 import "./styles/style.css";
 import "./styles/cover.css";
 import "./styles/teaser.css";
+import "./styles/n.css";
+import "./styles/org.css";
 
 import "./morph.ts";
 

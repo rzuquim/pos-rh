@@ -32,6 +32,12 @@ export function travelDistance(reveal: RevealApi, start: ElementTarget, target: 
   return [(targetPoint.x - startPoint.x) / scale, (targetPoint.y - startPoint.y) / scale];
 }
 
+export function globalPosition(reveal: RevealApi, el: Element): [number, number] {
+  let scale = reveal.getScale() || 1;
+  let rect = el.getBoundingClientRect();
+  return [rect.left / scale, rect.bottom / scale];
+}
+
 function getAnchorPoint(el: Element, anchor: Anchor): { x: number; y: number } {
   let rect = el.getBoundingClientRect();
   let x = 0;
