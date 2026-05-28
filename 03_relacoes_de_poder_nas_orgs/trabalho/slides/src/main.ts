@@ -6,6 +6,7 @@ import "reveal.js/reveal.css";
 import "reveal.js/theme/black.css";
 
 import "./styles/style.css";
+import "./styles/header.css";
 import "./styles/cover.css";
 import "./styles/teaser.css";
 import "./styles/n.css";

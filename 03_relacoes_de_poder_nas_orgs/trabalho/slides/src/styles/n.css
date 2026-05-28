@@ -1,22 +1,4 @@
 #n-profile {
-  .n-header {
-    display: flex;
-    align-items: center;
-
-    strong {
-      font-size: var(--font-size-title);
-      color: var(--accent);
-      margin-right: var(--spacing-lg);
-    }
-
-    span {
-      border-left: solid 3px var(--red);
-      font-size: var(--font-size-sm);
-      color: var(--muted);
-      padding-left: var(--spacing-sm);
-    }
-  }
-
   .profile-layout {
     display: flex;
     flex-direction: row;
