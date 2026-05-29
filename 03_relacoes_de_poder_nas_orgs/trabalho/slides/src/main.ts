@@ -11,6 +11,7 @@ import "./styles/cover.css";
 import "./styles/teaser.css";
 import "./styles/n.css";
 import "./styles/org.css";
+import "./styles/org_depois.css";
 import "./styles/simple_transforms.css";
 
 import "./morph.ts";
