@@ -118,3 +118,38 @@ section#second_year {
     text-shadow: 0 0 15px rgba(255, 0, 0, 0.6);
   }
 }
+
+section#responsabilities {
+  position: relative;
+  .two-column-layout {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    li {
+      margin: 0.25em;
+    }
+
+    .column {
+      flex: 1;
+      position: relative;
+
+      border-radius: 12px;
+      box-shadow: 2px 2px 1px 0px rgba(0, 0, 0, 0.75);
+      padding: var(--spacing-sm);
+
+      h3 {
+        font-size: var(--font-size-lg);
+        margin-bottom: var(--spacing-sm);
+        text-transform: uppercase;
+        letter-spacing: 2px;
+      }
+    }
+  }
+
+  .dots {
+    position: absolute;
+    bottom: 0%;
+    left: 40%;
+  }
+}
