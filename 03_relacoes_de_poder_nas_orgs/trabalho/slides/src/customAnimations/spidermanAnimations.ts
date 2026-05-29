@@ -241,7 +241,7 @@ function freeFlight(
       ease: "power2.in",
       duration: step.duration - upDuration,
     },
-    step.startAt + upDuration,
+    (step.startAt || 0) + upDuration,
   );
 }
 

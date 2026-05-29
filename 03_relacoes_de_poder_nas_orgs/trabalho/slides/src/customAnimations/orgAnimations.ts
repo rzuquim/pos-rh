@@ -55,7 +55,7 @@ function hideOrgChart() {
   });
 }
 
-function showNodes(tl: gsap.core.Timeline, doc: HTMLDocument, reveal: RevealApi, durationPercent: number) {
+function showNodes(tl: gsap.core.Timeline, _doc: HTMLDocument, _reveal: RevealApi, durationPercent: number) {
   tl.to(
     ".node",
     {
@@ -127,7 +127,7 @@ function reveal(tl: gsap.core.Timeline, curr: SVGPathElement, step: TweenStep) {
       repeat: 1,
       ease: "sine.inOut",
     },
-    step.startAt + afterShockDur * step.duration,
+    (step.startAt || 0) + afterShockDur * step.duration,
   );
 }
 

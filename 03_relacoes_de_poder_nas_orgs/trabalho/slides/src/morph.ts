@@ -59,8 +59,8 @@ function mapByIds(prevSlide: HTMLElement, currSlide: HTMLElement): ShapePair[] {
       throw "Could not find pair for on prev slide";
     }
 
-    let currShape: SVGPathElement = currSvg.querySelector(".shape") || currSvg.querySelector("path");
-    let prevShape: SVGPathElement = prevSvg.querySelector(".shape") || prevSvg.querySelector("path");
+    let currShape = currSvg.querySelector(".shape") || currSvg.querySelector("path");
+    let prevShape = prevSvg.querySelector(".shape") || prevSvg.querySelector("path");
 
     if (!currShape || !prevShape) {
       console.error("Could not find .shape on one of the SVGs", currSvg, prevSvg);
@@ -68,8 +68,8 @@ function mapByIds(prevSlide: HTMLElement, currSlide: HTMLElement): ShapePair[] {
     }
     pairs.push({
       id: dataId,
-      prev: prevShape,
-      curr: currShape,
+      prev: prevShape as SVGPathElement,
+      curr: currShape as SVGPathElement,
       currSvgEl: currSvg as SVGSVGElement,
       prevSvgEl: prevSvg as SVGSVGElement,
     });
