@@ -5,7 +5,7 @@ import type { TweenStep } from "../main";
 import { travelDistance, toSvgUnits, type PointInSpace } from "../util";
 import type { RevealApi } from "reveal.js";
 
-const DURATION = 1;
+const DURATION = 1.5;
 
 export default function () {
   declareCustomAnimations({

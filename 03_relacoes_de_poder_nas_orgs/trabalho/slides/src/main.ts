@@ -11,7 +11,7 @@ import "./styles/cover.css";
 import "./styles/teaser.css";
 import "./styles/n.css";
 import "./styles/org.css";
-import "./styles/cunhado.css";
+import "./styles/simple_transforms.css";
 
 import "./morph.ts";
 

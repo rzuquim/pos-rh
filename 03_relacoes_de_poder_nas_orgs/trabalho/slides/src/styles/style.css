@@ -92,6 +92,8 @@
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: flex-start;
+  height: 100%;
+
   em {
     color: var(--accent);
   }
