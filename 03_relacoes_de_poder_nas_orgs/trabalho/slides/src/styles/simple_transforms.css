@@ -153,3 +153,44 @@ section#responsabilities {
     left: 40%;
   }
 }
+
+section#dono_2 {
+  blockquote {
+    margin-top: 0;
+  }
+
+  div.column {
+    position: relative;
+
+    .profile-pic-grid {
+      position: absolute;
+      z-index: 999;
+
+      /* pdf */
+      /* left: -10px; */
+      /* top: -89px; */
+
+      /* anim */
+      left: -4px;
+      top: -122px;
+
+      svg.dot {
+        opacity: 1;
+      }
+
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      gap: 0;
+
+      /* pdf */
+      transform: rotate(-30deg);
+
+      .dot {
+        width: 8rem;
+        height: 8rem;
+        margin: 0;
+      }
+    }
+  }
+}

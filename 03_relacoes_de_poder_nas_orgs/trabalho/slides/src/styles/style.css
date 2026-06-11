@@ -53,12 +53,17 @@
 .success {
   color: var(--green);
 }
+
 .danger {
   color: var(--danger);
 }
 
 .muted {
   color: var(--muted);
+}
+
+.normal {
+  color: var(--r-main-color);
 }
 
 .highlight {
@@ -278,4 +283,17 @@ svg {
    * the svg position will be animated by reveal.js and the shape using gsap
    * */
   overflow: visible;
+}
+
+.two-column-layout {
+  display: flex;
+  height: 100%;
+
+  justify-content: space-between;
+  align-items: flex-start;
+
+  .column {
+    flex: 1;
+    height: 100%;
+  }
 }
