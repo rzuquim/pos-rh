@@ -1,0 +1,18 @@
+<svg viewBox="70 120 240 580" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#E1E7EF" stroke="#E1E7EF" stroke-width="4">
+        <g transform="translate(90,130)" stroke="#fc8181" fill="#fc8181">
+            <rect x="10" y="0" width="180" height="18"/>
+            <path d="M35 28 Q100 8 165 28 L155 52 L45 52 Z"/>
+            <rect x="45" y="80" width="110" height="300"/>
+            <line x1="70" y1="95" x2="70" y2="360" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="100" y1="95" x2="100" y2="360" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="130" y1="95" x2="130" y2="360" stroke="#1F1F1F" stroke-width="8"/>
+            <path d="M35 390 L165 390 L145 420 L55 420 Z"/>
+            <rect x="25" y="425" width="150" height="18"/>
+            <rect x="5" y="450" width="190" height="22"/>
+            <text x="-225" y="22" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Coerção
+            </text>
+        </g>
+    </g>
+</svg>

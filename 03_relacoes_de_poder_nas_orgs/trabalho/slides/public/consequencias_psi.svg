@@ -1,0 +1,16 @@
+<svg viewBox="0 0 800 450" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="none"/>
+    <g font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle">
+        <text x="110.2" y="70.6" font-size="26.0" fill="#a0aec0" transform="rotate(-11.1 110.2 70.6)">culpa</text>
+        <text x="475.8" y="81.3" font-size="54.0" fill="#fc8181" transform="rotate(2.3 475.8 81.3)">irritação constante</text>
+        <text x="500.3" y="146.4" font-size="22.0" fill="#e2e8f0" transform="rotate(6.2 500.3 146.4)">inferioridade</text>
+        <text x="330.1" y="152.8" font-size="48.0" fill="#4fd1c5" transform="rotate(-1.5 330.1 152.8)">tristeza</text>
+        <text x="613.1" y="181.9" font-size="20.0" fill="#fc8181" transform="rotate(-18.7 613.1 181.9)">vergonha</text>
+        <text x="637.8" y="229.8" font-size="18.0" fill="#f6e05e" transform="rotate(-6.3 637.8 229.8)">rejeição</text>
+        <text x="383.2" y="235.1" font-size="14.0" fill="#a0aec0" transform="rotate(11.9 383.2 235.1)">ideação suicida</text>
+        <text x="268.0" y="261.1" font-size="42.0" fill="#0ea5e9" transform="rotate(22.6 268.0 261.1)">problemas de memória</text>
+        <text x="598.2" y="283.1" font-size="38.0" fill="#f6e05e" transform="rotate(31.4 598.2 283.1)">vivência depressiva</text>
+        <text x="338.4" y="362.4" font-size="34.0" fill="#f6ad55" transform="rotate(18.2 338.4 362.4)">baixa autoestima</text>
+        <text x="125.0" y="398.0" font-size="30.0" fill="#8eb9fc" transform="rotate(4.0 125.0 398.0)">pessimismo</text>
+    </g>
+</svg>

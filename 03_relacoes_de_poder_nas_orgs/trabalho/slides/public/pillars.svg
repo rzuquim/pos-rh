@@ -1,0 +1,75 @@
+<svg viewBox="70 40 1260 620" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#E1E7EF" stroke="#E1E7EF" stroke-width="4">
+        <!-- Pilar 1 -->
+        <g transform="translate(90,130)" stroke="#fc8181" fill="#fc8181">
+            <rect x="10" y="0" width="180" height="18"/>
+            <path d="M35 28 Q100 8 165 28 L155 52 L45 52 Z"/>
+            <rect x="45" y="80" width="110" height="300"/>
+            <line x1="70" y1="95" x2="70" y2="360" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="100" y1="95" x2="100" y2="360" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="130" y1="95" x2="130" y2="360" stroke="#1F1F1F" stroke-width="8"/>
+            <path d="M35 390 L165 390 L145 420 L55 420 Z"/>
+            <rect x="25" y="425" width="150" height="18"/>
+            <rect x="5" y="450" width="190" height="22"/>
+            <text x="-225" y="22" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Coerção
+            </text>
+        </g>
+        <!-- Pilar 2 -->
+        <g transform="translate(350,130)" stroke="#4fd1c5" fill="#4fd1c5">
+            <rect x="20" y="0" width="160" height="18"/>
+            <path d="M45 30 L155 30 L170 58 L30 58 Z"/>
+            <rect x="50" y="82" width="100" height="295"/>
+            <line x1="75" y1="100" x2="75" y2="350" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="125" y1="100" x2="125" y2="350" stroke="#1F1F1F" stroke-width="8"/>
+            <path d="M35 390 L165 390 L145 420 L55 420 Z"/>
+            <rect x="25" y="425" width="150" height="18"/>
+            <path d="M10 470 L190 470 L170 440 L30 440 Z"/>
+            <text x="-225" y="35" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Recompensa
+            </text>
+        </g>
+        <!-- Pilar 3 -->
+        <g transform="translate(610,130)" stroke="#0ea5e9" fill="#0ea5e9">
+            <rect x="20" y="0" width="160" height="18"/>
+            <path d="M40 30 Q100 0 160 30 L160 58 L40 58 Z"/>
+            <rect x="55" y="75" width="90" height="305"/>
+            <line x1="82" y1="95" x2="82" y2="355" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="118" y1="95" x2="118" y2="355" stroke="#1F1F1F" stroke-width="8"/>
+            <rect x="45" y="390" width="110" height="35"/>
+            <rect x="25" y="435" width="150" height="25"/>
+            <text x="-225" y="35" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Legitimidade
+            </text>
+        </g>
+        <!-- Pilar 4 -->
+        <g transform="translate(870,130)" stroke="#f6e05e" fill="#f6e05e">
+            <rect x="20" y="0" width="160" height="18"/>
+            <path d="M35 35 Q100 5 165 35 L145 65 L55 65 Z"/>
+            <rect x="45" y="80" width="110" height="300"/>
+            <rect x="70" y="95" width="60" height="100" fill="none" stroke="#1F1F1F" stroke-width="6"/>
+            <line x1="100" y1="95" x2="100" y2="195" stroke="#1F1F1F" stroke-width="6"/>
+            <rect x="70" y="210" width="60" height="130" fill="none" stroke="#1F1F1F" stroke-width="6"/>
+            <path d="M45 390 Q100 430 155 390 L145 425 L55 425 Z"/>
+            <rect x="20" y="440" width="160" height="25"/>
+            <text x="-225" y="22" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Referência
+            </text>
+        </g>
+        <!-- Pilar 5 -->
+        <g transform="translate(1130,130)" stroke="#f6ad55" fill="#f6ad55">
+            <rect x="10" y="0" width="180" height="18"/>
+            <path d="M35 30 L165 30 Q160 65 100 70 Q40 65 35 30 Z"/>
+            <rect x="50" y="85" width="100" height="295"/>
+            <line x1="75" y1="105" x2="75" y2="355" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="100" y1="105" x2="100" y2="355" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="125" y1="105" x2="125" y2="355" stroke="#1F1F1F" stroke-width="8"/>
+            <path d="M40 390 L160 390 L145 420 L55 420 Z"/>
+            <rect x="25" y="430" width="150" height="20"/>
+            <path d="M5 470 L195 470 L175 445 L25 445 Z"/>
+            <text x="-225" y="35" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Competência
+            </text>
+        </g>
+    </g>
+</svg>

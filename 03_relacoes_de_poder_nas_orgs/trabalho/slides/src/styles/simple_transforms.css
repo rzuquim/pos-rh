@@ -194,3 +194,75 @@ section#dono_2 {
     }
   }
 }
+
+section#nova_cultura {
+  div.fragment {
+    .profile-pic-grid {
+      position: absolute;
+      z-index: 999;
+
+      /* pdf */
+      /* left: 54px; */
+      /* bottom: 50px; */
+
+      /* anim */
+      left: 60px;
+      bottom: 0;
+
+      svg.dot {
+        opacity: 1;
+      }
+
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      gap: 0;
+
+      /* pdf */
+      transform: rotate(-30deg);
+
+      .dot {
+        width: 8rem;
+        height: 8rem;
+        margin: 0;
+      }
+    }
+  }
+}
+
+section#bases_poder {
+  .content {
+    width: 100%;
+  }
+
+  .prose {
+    height: 100%;
+    width: 100%;
+  }
+
+  .pilars {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  object {
+    width: 80%;
+    height: auto;
+  }
+}
+
+section {
+  .slide-pilars {
+    .column {
+      flex: 5;
+    }
+
+    .column.pilar {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      margin-left: var(--spacing-sm);
+    }
+  }
+}

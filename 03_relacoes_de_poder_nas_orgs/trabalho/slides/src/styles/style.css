@@ -257,6 +257,10 @@
       color: var(--danger);
       border-color: var(--danger);
     }
+
+    &.big {
+      width: 90%;
+    }
   }
 
   ul {

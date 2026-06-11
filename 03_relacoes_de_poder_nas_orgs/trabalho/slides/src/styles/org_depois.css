@@ -1,8 +1,10 @@
 #org_depois {
   .profile-pic-grid {
     position: absolute;
-    left: 582px;
-    bottom: -250px;
+
+    left: 555px;
+    bottom: -290px;
+
     z-index: 999;
 
     display: grid;

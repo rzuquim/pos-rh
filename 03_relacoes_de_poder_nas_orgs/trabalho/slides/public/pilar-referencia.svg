@@ -1,0 +1,18 @@
+<svg viewBox="1110 120 240 580" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#E1E7EF" stroke="#E1E7EF" stroke-width="4">
+        <!-- Pilar 4 -->
+        <g transform="translate(1130,130)" stroke="#f6e05e" fill="#f6e05e">
+            <rect x="20" y="0" width="160" height="18"/>
+            <path d="M35 35 Q100 5 165 35 L145 65 L55 65 Z"/>
+            <rect x="45" y="80" width="110" height="300"/>
+            <rect x="70" y="95" width="60" height="100" fill="none" stroke="#1F1F1F" stroke-width="6"/>
+            <line x1="100" y1="95" x2="100" y2="195" stroke="#1F1F1F" stroke-width="6"/>
+            <rect x="70" y="210" width="60" height="130" fill="none" stroke="#1F1F1F" stroke-width="6"/>
+            <path d="M45 390 Q100 430 155 390 L145 425 L55 425 Z"/>
+            <rect x="20" y="440" width="160" height="25"/>
+            <text x="-225" y="22" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Referência
+            </text>
+        </g>
+    </g>
+</svg>

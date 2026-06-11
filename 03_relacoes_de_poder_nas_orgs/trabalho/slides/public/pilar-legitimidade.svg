@@ -1,0 +1,17 @@
+<svg viewBox="590 120 240 580" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#E1E7EF" stroke="#E1E7EF" stroke-width="4">
+        <!-- Pilar 3 -->
+        <g transform="translate(610,130)" stroke="#0ea5e9" fill="#0ea5e9">
+            <rect x="20" y="0" width="160" height="18"/>
+            <path d="M40 30 Q100 0 160 30 L160 58 L40 58 Z"/>
+            <rect x="55" y="75" width="90" height="305"/>
+            <line x1="82" y1="95" x2="82" y2="355" stroke="#1F1F1F" stroke-width="8"/>
+            <line x1="118" y1="95" x2="118" y2="355" stroke="#1F1F1F" stroke-width="8"/>
+            <rect x="45" y="390" width="110" height="35"/>
+            <rect x="25" y="435" width="150" height="25"/>
+            <text x="-225" y="35" transform="rotate(-90)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0" stroke="none">
+                Legitimidade
+            </text>
+        </g>
+    </g>
+</svg>
