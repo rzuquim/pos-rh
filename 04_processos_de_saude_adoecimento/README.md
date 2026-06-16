@@ -1,86 +1,27 @@
 # Processos de Saúde e Adoecimento Relacionados ao Trabalho
 
-- Jornadas Longas e Exaustivas
-- Assédio Moral e Pressão
-- Exposição a Produtos Químicos e Poluentes
-- Alta Cobrança e Metas Excessivas
-- Estresse e Sobrecarga Mental
-- Esforço Físico e Movimentos Repetitivos
-- Falta de Pausas e Descanso
-- Trabalho e Isolamento
-- Insegurança e Instabilidade no Emprego
-- Ruído e Ambiente Insalubre
+Prof. Tereza
 
-## ao Trabalho
+# Conteúdo Programático:
 
-Não é adoecimento "do" trabalho nem "no" trabalho.
+- Concepção de saúde e sua relação com o trabalho sob a perspectiva biopsicossocial.
+- Saúde mental relacionada ao trabalho: aspectos históricos e conceituais.
+- Análise crítica do conceito de “fatores de riscos psicossociais” no campo da saúde e trabalho.
+- Abordagens teóricas em saúde mental e trabalho.
+- Precarização da saúde mental na precarização social e do trabalho.
+- Violência no trabalho: ideologia da excelência, assédios e suicídio.
+- Intervenções para promoção da saúde e prevenção de adoecimentos
+- Replanejamento do trabalho a partir do trabalho real.
 
-- o trabalho em si não é adoecedor
-- não é estar no trabalho que adoece
+# Bibliografia básica:
 
-O adoecimento é "relacionado" AO trabalho.
-
-## Concepção Biopsicossocial de Saúde
-
-> Proposto por George Engel em 1977
-
-- Encara indivíduo de forma holística, considerado em sua totalidade.
-- Encontro da causa pelas 3 vertentes
-
-Alternativa ao modelo biomédico reducionista que tentava tratar as doenças sem levar em consideração emoções e disputas
-sociais.
-
-Historicamente foi introduzida em:
-
-Psiquiatria => Medicina de Família => Terapia Ocupacional
-
-Objetivo é a aderência ao tratamento.
-
-> ⚠️ATENÇÃO  
-> _Suicídio laboral_ (840 mil pessoas no mundo) e óbito relacionado a doenças cardíacas é responsável pelo baixo
-> diagnóstico de burnout.
-
-Uma das obrigatoriedades da NR-1 é detectar problemas antes do absenteísmo ou do `presenteísmo` (é estar presente mas
-sem performar). Escutar o trabalhador é onde encontramos `agente agressor`. Comunicação e sensibilização sobre a
-aplicação da NR-1 está aquém do necessário (por design?).
-
-Não é "colaborador" é "empregado". Chamar de colaborador é "Assédio de alienação".
-
-### Pilares
-
-**Bio**:
-
-- Sono
-- Alimentação
-- Práticas de atividades físicas
-- Prevenção de doenças ocupacionais (riscos ergonômicos biomecânicos: iluminação, temperatura, etc.)
-
-**Psico**:
-
-_Planejamento estratégico_.
-
-**Pilar Social**:
-
-- Segurança psicológica => segurança para errar
-- Sensação de pertencimento
-
-> ⚠️TERMOS  
-> Medicina do Trabalho => Medicina Ocupacional (coletora estatística para o SUS)
-
-## Sub-notificação de Burnout
-
-- Não abertura do `CAT` => Comunicação de Acidente de Trabalho => notificação via SINAM
-  > diante de um acidente ou na suspeita de
-- FAP => Fator Acidentário de Prevenção: Imposto aumenta com afastamento de trabalho
-- CTF => ???
-
-Necessidade de dados no SUS para elaboração de políticas públicas
-
-## Dejours Novamente
-
-- trabalho pode ser fonte de prazer ou gerar adoecimento e até morte
-- nunca é neutro: contribui para a construção do sujeito ou, ao contrário, para sua destruição
-- mobiliza expectativas, preocupações e desejos (pensado antes **mesmo de sair de casa**)
-- âncora da saúde mental (âncora do planejamento do seu tempo)
-- reconhecimento dos pares e retribuição moral => fortalecimento de status e dignidade
-- processo de auto-transformação: descoberta de capacidades desconhecidas
+- CANGUILHEM, G. O normal e o patológico. 4. ed. Rio de Janeiro: Forense Universitária, 1995.
+- DEJOURS, C. Novas formas de servidão e suicídio. In: MENDES, A. M (Org). Trabalho e saúde: o sujeito entre emancipação
+  e servidão. Curitiba: Juruá, 2011, p. 26-39.
+- FERREIRA, M. C. Ergonomia da Atividade aplicada à Qualidade de Vida no Trabalho: lugar, importância e contribuição da
+  Análise Ergonômica do Trabalho (AET). Revista Brasileira de Saúde Ocupacional, v. 40, n. 131, p. 18–29, 2015.
+- HELOANI, R, BARRETO, M. Assédio moral: gestão por humilhação. Curitiba: Juruá, 2018.
+- ROCHA, R. O debate nas Ciências do Trabalho: do que estamos falando? Saúde e Sociedade, v. 32, n. 2, p. e.
+  210766pt, 2023.
+- SELIGMANN-SILVA, E. Precarização da saúde mental na precarização social e do trabalho. In: SELIGMANN-SILVA, E.
+  Trabalho e Desgaste Mental: o direito de ser dono de si mesmo. São Paulo: Cortez, 2011, p. 458-491.

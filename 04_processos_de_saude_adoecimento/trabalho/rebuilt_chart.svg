@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="349" viewBox="0 0 422 349">
+  <rect width="422" height="349" fill="#fffdfd"/>
+
+  <defs>
+    <style>
+      .axis { stroke:#d8d1d0; stroke-width:1; }
+      .grid { stroke:#ead8d7; stroke-width:1; }
+      .line { fill:none; stroke:#7d211e; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+      .dot { fill:#7d211e; stroke:#7d211e; stroke-width:1; }
+      .label { font-family: Arial, Helvetica, sans-serif; fill:#7d211e; font-size:14px; }
+      .small { font-family: Arial, Helvetica, sans-serif; fill:#7d211e; font-size:13px; }
+      .note { font-family: Arial, Helvetica, sans-serif; fill:#c98f91; font-size:13px; }
+      .year { font-family: Arial, Helvetica, sans-serif; fill:#777; font-size:14px; }
+      .year-bold { font-family: Arial, Helvetica, sans-serif; fill:#222; font-size:14px; font-weight:700; }
+      .bold-red { font-family: Arial, Helvetica, sans-serif; fill:#b82624; font-size:17px; font-weight:700; }
+    </style>
+  </defs>
+
+  <!-- subtle yearly columns -->
+  <g opacity="0.65">
+    <rect x="8" y="19" width="38" height="302" fill="#fbf1f1"/>
+    <rect x="84" y="19" width="38" height="302" fill="#fbf1f1"/>
+    <rect x="161" y="19" width="38" height="302" fill="#fbf1f1"/>
+    <rect x="237" y="19" width="38" height="302" fill="#fbf1f1"/>
+    <rect x="313" y="19" width="38" height="302" fill="#fbf1f1"/>
+    <rect x="389" y="19" width="25" height="302" fill="#fbf1f1"/>
+  </g>
+
+  <!-- vertical gridlines -->
+  <g>
+    <line class="grid" x1="8" y1="23" x2="8" y2="321"/>
+    <line class="grid" x1="46" y1="23" x2="46" y2="321"/>
+    <line class="grid" x1="84" y1="23" x2="84" y2="321"/>
+    <line class="grid" x1="122" y1="23" x2="122" y2="321"/>
+    <line class="grid" x1="160" y1="23" x2="160" y2="321"/>
+    <line class="grid" x1="199" y1="23" x2="199" y2="321"/>
+    <line class="grid" x1="237" y1="23" x2="237" y2="321"/>
+    <line class="grid" x1="275" y1="23" x2="275" y2="321"/>
+    <line class="grid" x1="313" y1="23" x2="313" y2="321"/>
+    <line class="grid" x1="351" y1="23" x2="351" y2="321"/>
+    <line class="grid" x1="390" y1="23" x2="390" y2="321"/>
+  </g>
+
+  <!-- pandemic marker -->
+  <line x1="199" y1="22" x2="199" y2="321" stroke="#d6a0a1" stroke-width="1.2"/>
+
+  <!-- data path -->
+  <path class="line" d="M 8 231 L 46 225 L 84 225 L 122 205 L 160 211 L 199 273 L 237 224 L 275 216 L 313 172 L 351 74 L 390 34"/>
+  <g>
+    <circle class="dot" cx="8" cy="231" r="2.2"/>
+    <circle class="dot" cx="46" cy="225" r="2.2"/>
+    <circle class="dot" cx="84" cy="225" r="2.2"/>
+    <circle class="dot" cx="122" cy="205" r="2.2"/>
+    <circle class="dot" cx="160" cy="211" r="2.2"/>
+    <circle class="dot" cx="199" cy="273" r="2.2"/>
+    <circle class="dot" cx="237" cy="224" r="2.2"/>
+    <circle class="dot" cx="275" cy="216" r="2.2"/>
+    <circle class="dot" cx="313" cy="172" r="2.2"/>
+    <circle class="dot" cx="351" cy="74" r="2.2"/>
+    <circle class="dot" cx="390" cy="34" r="2.2"/>
+  </g>
+
+  <!-- numeric labels -->
+  <text class="label" x="0" y="251">170.830</text>
+  <text class="label" x="34" y="218">182.124</text>
+  <text class="label" x="70" y="247">182.252</text>
+  <text class="label" x="107" y="198">219.542</text>
+  <text class="label" x="146" y="230">207.945</text>
+  <text class="label" x="184" y="293">91.607</text>
+  <text class="label" x="218" y="211">185.708</text>
+  <text class="label" x="268" y="228">201.864</text>
+  <text class="label" x="321" y="176">283.471</text>
+  <text class="label" x="300" y="74">472.328</text>
+  <text class="bold-red" x="350" y="18">546.254</text>
+
+  <!-- annotations -->
+  <text class="note" text-anchor="middle" x="137" y="35">
+    <tspan x="137" dy="0">Início da pandemia</tspan>
+    <tspan x="137" dy="18">de Covid-19 gerou</tspan>
+    <tspan x="137" dy="18">uma queda no número</tspan>
+    <tspan x="137" dy="18">de atendimentos</tspan>
+  </text>
+  <text class="label" text-anchor="middle" x="329" y="36">
+    <tspan x="329" dy="0">Aumento</tspan>
+    <tspan x="329" dy="16">de 15,6%</tspan>
+  </text>
+
+  <!-- x axis -->
+  <line class="axis" x1="7" y1="321" x2="410" y2="321"/>
+  <text class="year" x="7" y="341">2015</text>
+  <text class="year" x="51" y="341">16</text>
+  <text class="year" x="89" y="341">17</text>
+  <text class="year" x="127" y="341">18</text>
+  <text class="year" x="165" y="341">19</text>
+  <text class="year" x="203" y="341">20</text>
+  <text class="year" x="241" y="341">21</text>
+  <text class="year" x="279" y="341">22</text>
+  <text class="year" x="317" y="341">23</text>
+  <text class="year" x="355" y="341">24</text>
+  <text class="year-bold" x="383" y="341">2025</text>
+</svg>
